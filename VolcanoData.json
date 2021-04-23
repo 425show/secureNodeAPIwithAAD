@@ -1,0 +1,7655 @@
+[
+  {
+    "VolcanoName": "Abu",
+    "Country": "Japan",
+    "Region": "Honshu-Japan",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        131.6,
+        34.5
+      ]
+    },
+    "Elevation": 571,
+    "Type": "Shield volcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "4cb67ab0-ba1a-0e8a-8dfc-d48472fd5766"
+  },
+  {
+    "VolcanoName": "Acamarachi",
+    "Country": "Chile",
+    "Region": "Chile-N",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -67.62,
+        -23.3
+      ]
+    },
+    "Elevation": 6046,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "246927ec-11c6-56da-b97c-00e5ed69fd3f"
+  },
+  {
+    "VolcanoName": "Acatenango",
+    "Country": "Guatemala",
+    "Region": "Guatemala",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -90.876,
+        14.501
+      ]
+    },
+    "Elevation": 3976,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "a6297b2d-d004-8caa-bc42-a349ff046bc4"
+  },
+  {
+    "VolcanoName": "Acigol-Nevsehir",
+    "Country": "Turkey",
+    "Region": "Turkey",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        34.52,
+        38.57
+      ]
+    },
+    "Elevation": 1689,
+    "Type": "Maar",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "cd080a05-b245-b78a-0dbe-1cb32eac3a74"
+  },
+  {
+    "VolcanoName": "Adams",
+    "Country": "United States",
+    "Region": "US-Washington",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -121.49,
+        46.206
+      ]
+    },
+    "Elevation": 3742,
+    "Type": "Stratovolcano",
+    "Status": "Tephrochronology",
+    "LastKnownEruption": "LastKnownEruption from A.D. 1-1499, inclusive",
+    "id": "9e3c494e-8367-3f50-1f56-8c6fcb961363"
+  },
+  {
+    "VolcanoName": "Adatara",
+    "Country": "Japan",
+    "Region": "Honshu-Japan",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        140.28,
+        37.62
+      ]
+    },
+    "Elevation": 1718,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "81ed06ee-8319-4555-dbd4-74923ad4130a"
+  },
+  {
+    "VolcanoName": "Adwa",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        40.84,
+        10.07
+      ]
+    },
+    "Elevation": 1733,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "6802c282-225a-2fb9-db1a-3e1b7af39a59"
+  },
+  {
+    "VolcanoName": "Afdera",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        40.85,
+        13.08
+      ]
+    },
+    "Elevation": 1295,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "1edbcfd7-408e-954b-2dd6-2cefd0291fd4"
+  },
+  {
+    "VolcanoName": "Agmagan-Karadag",
+    "Country": "Armenia",
+    "Region": "Armenia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        44.75,
+        40.275
+      ]
+    },
+    "Elevation": 3560,
+    "Type": "Volcanic field",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "7971f48f-af85-78eb-112e-945bd26ba468"
+  },
+  {
+    "VolcanoName": "Agrigan",
+    "Country": "United States",
+    "Region": "Mariana Is-C Pacific",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        145.67,
+        18.77
+      ]
+    },
+    "Elevation": 965,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "e26b4342-2bdf-6970-6a7c-7f4c78de3eb0"
+  },
+  {
+    "VolcanoName": "Agua",
+    "Country": "Guatemala",
+    "Region": "Guatemala",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -90.743,
+        14.465
+      ]
+    },
+    "Elevation": 3760,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "4bf9255d-f545-4376-b097-df4ca4da9689"
+  },
+  {
+    "VolcanoName": "Agua de Pau",
+    "Country": "Portugal",
+    "Region": "Azores",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -25.47,
+        37.77
+      ]
+    },
+    "Elevation": 947,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1500-1699, inclusive",
+    "id": "d44c94b6-81f8-4b27-4970-f79b149529d3"
+  },
+  {
+    "VolcanoName": "Aguilera",
+    "Country": "Chile",
+    "Region": "Chile-S",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -73.83,
+        -50.17
+      ]
+    },
+    "Elevation": 0,
+    "Type": "Stratovolcano",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "7408d446-fb51-e70e-9955-560a0c966b68"
+  },
+  {
+    "VolcanoName": "Agung",
+    "Country": "Indonesia",
+    "Region": "Lesser Sunda Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        115.508,
+        -8.342
+      ]
+    },
+    "Elevation": 3142,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "670b15d5-6c84-4f9e-0836-4e1b87f02673"
+  },
+  {
+    "VolcanoName": "Ahyi",
+    "Country": "United States",
+    "Region": "Mariana Is-C Pacific",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        145.03,
+        20.42
+      ]
+    },
+    "Elevation": -137,
+    "Type": "Submarine volcano",
+    "Status": "Uncertain",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "e581b14e-480f-dffc-85b5-ae9f1b6ab4d6"
+  },
+  {
+    "VolcanoName": "Akademia Nauk",
+    "Country": "Russia",
+    "Region": "Kamchatka",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        159.45,
+        53.98
+      ]
+    },
+    "Elevation": 1180,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "0054666d-0a62-542a-2e6b-8614260f3124"
+  },
+  {
+    "VolcanoName": "Akademia Nauk",
+    "Country": "Russia",
+    "Region": "Kamchatka",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        159.45,
+        53.983
+      ]
+    },
+    "Elevation": 1180,
+    "Type": "Stratovolcanoes",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "767afe71-aa85-a080-2ae5-bc2a3792c27d"
+  },
+  {
+    "VolcanoName": "Akagi",
+    "Country": "Japan",
+    "Region": "Honshu-Japan",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        139.18,
+        36.53
+      ]
+    },
+    "Elevation": 1828,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from A.D. 1-1499, inclusive",
+    "id": "a8dc9372-32e9-a067-d040-0f7513e60db8"
+  },
+  {
+    "VolcanoName": "Akan",
+    "Country": "Japan",
+    "Region": "Hokkaido-Japan",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        144.02,
+        43.38
+      ]
+    },
+    "Elevation": 1499,
+    "Type": "Caldera",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "947ad983-c955-4ace-40bd-fa0f23eaa721"
+  },
+  {
+    "VolcanoName": "Akhtang",
+    "Country": "Russia",
+    "Region": "Kamchatka",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        158.65,
+        55.43
+      ]
+    },
+    "Elevation": 1956,
+    "Type": "Shield volcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "f38dec4b-4591-ccee-a668-943e4943e758"
+  },
+  {
+    "VolcanoName": "Akita-Komaga-take",
+    "Country": "Japan",
+    "Region": "Honshu-Japan",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        140.8,
+        39.75
+      ]
+    },
+    "Elevation": 1637,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "993427a7-4be8-af07-90cd-ee92b0c71bb0"
+  },
+  {
+    "VolcanoName": "Akita-Yake-yama",
+    "Country": "Japan",
+    "Region": "Honshu-Japan",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        140.77,
+        39.97
+      ]
+    },
+    "Elevation": 1366,
+    "Type": "Complex volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "9037065f-18c0-5faa-b002-360059d0f051"
+  },
+  {
+    "VolcanoName": "Akuseki-jima",
+    "Country": "Japan",
+    "Region": "Ryukyu Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        129.597,
+        29.461
+      ]
+    },
+    "Elevation": 584,
+    "Type": "Stratovolcanoes",
+    "Status": "Holocene?",
+    "LastKnownEruption": "Uncertain Holocene eruption",
+    "id": "7f0304a0-fa2d-471b-d079-ab562429a127"
+  },
+  {
+    "VolcanoName": "Akuseki-jima",
+    "Country": "Japan",
+    "Region": "Ryukyu Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        129.6,
+        29.45
+      ]
+    },
+    "Elevation": 586,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "d6241563-02e6-60bb-cac8-71b5e7e94bc1"
+  },
+  {
+    "VolcanoName": "Akutan",
+    "Country": "United States",
+    "Region": "Aleutian Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -165.97,
+        54.13
+      ]
+    },
+    "Elevation": 1303,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "35971ea9-b611-b44f-f4f5-b6161eafae74"
+  },
+  {
+    "VolcanoName": "Alaid",
+    "Country": "Russia",
+    "Region": "Kuril Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        155.55,
+        50.858
+      ]
+    },
+    "Elevation": 2339,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "ef9da8b3-173b-399c-201d-4ad045128994"
+  },
+  {
+    "VolcanoName": "Alamagan",
+    "Country": "United States",
+    "Region": "Mariana Is-C Pacific",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        145.83,
+        17.6
+      ]
+    },
+    "Elevation": 744,
+    "Type": "Stratovolcano",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption from A.D. 1-1499, inclusive",
+    "id": "54f43f96-5d10-e87d-0051-0cb4799e58f0"
+  },
+  {
+    "VolcanoName": "Alayta",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        40.57,
+        12.88
+      ]
+    },
+    "Elevation": 1501,
+    "Type": "Shield volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "c223a890-f75b-7fc8-b2b3-1b29c36555a0"
+  },
+  {
+    "VolcanoName": "Albano, Monte",
+    "Country": "Italy",
+    "Region": "Italy",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        12.7,
+        41.73
+      ]
+    },
+    "Elevation": 949,
+    "Type": "Caldera",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "c3bb1fef-fcb1-56e3-0389-f88583c3ce0d"
+  },
+  {
+    "VolcanoName": "Alcedo, Volcan",
+    "Country": "Ecuador",
+    "Region": "Galapagos",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -91.12,
+        -0.43
+      ]
+    },
+    "Elevation": 1130,
+    "Type": "Shield volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "877a940e-e580-2479-1b50-e33985624ef2"
+  },
+  {
+    "VolcanoName": "Ale Bagu",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        40.63,
+        13.52
+      ]
+    },
+    "Elevation": 1031,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "dc269bca-e610-9cd8-553c-93fb3019ed61"
+  },
+  {
+    "VolcanoName": "Alid",
+    "Country": "Eritrea",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        39.92,
+        14.88
+      ]
+    },
+    "Elevation": 904,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "0be79920-dda4-dcd7-9312-3bc6a717cd39"
+  },
+  {
+    "VolcanoName": "Alligator Lake",
+    "Country": "Canada",
+    "Region": "Canada",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -135.42,
+        60.42
+      ]
+    },
+    "Elevation": 2217,
+    "Type": "Volcanic field",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "4eca56ec-987b-f1a1-8f5d-6cd89edcb3e3"
+  },
+  {
+    "VolcanoName": "Almolonga",
+    "Country": "Guatemala",
+    "Region": "Guatemala",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -91.48,
+        14.82
+      ]
+    },
+    "Elevation": 3197,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1800-1899, inclusive",
+    "id": "13af25d2-9636-41d2-45f2-0d9052ed3263"
+  },
+  {
+    "VolcanoName": "Alney-Chashakondzha",
+    "Country": "Russia",
+    "Region": "Kamchatka",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        159.65,
+        56.7
+      ]
+    },
+    "Elevation": 2598,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "461c8ff1-cb91-01d8-5f8e-8b518a5fe5ea"
+  },
+  {
+    "VolcanoName": "Alngey",
+    "Country": "Russia",
+    "Region": "Kamchatka",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        160.4,
+        57.7
+      ]
+    },
+    "Elevation": 1853,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "a2af9028-874f-f97d-e39f-05bca3f8e25d"
+  },
+  {
+    "VolcanoName": "Alu",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        40.55,
+        13.82
+      ]
+    },
+    "Elevation": 429,
+    "Type": "Fissure vent",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "a0b4d81c-5dbc-f91b-ea8c-96f4377280b4"
+  },
+  {
+    "VolcanoName": "Alutu",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        38.78,
+        7.77
+      ]
+    },
+    "Elevation": 2335,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "afe9b90a-ebc6-ca7e-0968-88f5c9e15319"
+  },
+  {
+    "VolcanoName": "Amak",
+    "Country": "United States",
+    "Region": "Aleutian Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -163.15,
+        55.42
+      ]
+    },
+    "Elevation": 513,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1700-1799, inclusive",
+    "id": "bc66b762-937f-5266-661d-25af8e506369"
+  },
+  {
+    "VolcanoName": "Amasing",
+    "Country": "Indonesia",
+    "Region": "Halmahera-Indonesia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        127.5,
+        -0.55
+      ]
+    },
+    "Elevation": 1030,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "e527e160-d953-0dea-03aa-87d3f101d6c0"
+  },
+  {
+    "VolcanoName": "Ambalatungan Group",
+    "Country": "Philippines",
+    "Region": "Luzon-Philippines",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        121.1,
+        17.32
+      ]
+    },
+    "Elevation": 2329,
+    "Type": "Compound volcano",
+    "Status": "Fumarolic",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "545f3bb5-2bf2-54e3-b919-19ebd58d8e12"
+  },
+  {
+    "VolcanoName": "Ambang",
+    "Country": "Indonesia",
+    "Region": "Sulawesi-Indonesia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        124.42,
+        0.75
+      ]
+    },
+    "Elevation": 1795,
+    "Type": "Complex volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1800-1899, inclusive",
+    "id": "ac3d7c60-3349-b57d-256e-a57b8320fabc"
+  },
+  {
+    "VolcanoName": "Ambitle",
+    "Country": "Papua New Guinea",
+    "Region": "New Ireland-SW Pacif",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        153.65,
+        -4.08
+      ]
+    },
+    "Elevation": 450,
+    "Type": "Stratovolcano",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "ff6223b4-06fc-caf4-c16a-4c6034d1eb98"
+  },
+  {
+    "VolcanoName": "Amboy",
+    "Country": "United States",
+    "Region": "US-California",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -115.78,
+        34.55
+      ]
+    },
+    "Elevation": 288,
+    "Type": "Cinder cone",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "eddf3848-cfa2-8f3d-9774-4acbf0f35f45"
+  },
+  {
+    "VolcanoName": "Ambre-Bobaomby",
+    "Country": "Madagascar",
+    "Region": "Madagascar",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        49.1,
+        -12.48
+      ]
+    },
+    "Elevation": 1475,
+    "Type": "Volcanic field",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "c6540ff4-87a5-1490-041a-39a858c6bfd2"
+  },
+  {
+    "VolcanoName": "Ambrym",
+    "Country": "Vanuatu",
+    "Region": "Vanuatu-SW Pacific",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        168.12,
+        -16.25
+      ]
+    },
+    "Elevation": 1334,
+    "Type": "Pyroclastic shield",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "22b7cf2c-4a9c-9ff3-51ce-9973eba2bd3e"
+  },
+  {
+    "VolcanoName": "Amorong",
+    "Country": "Philippines",
+    "Region": "Luzon-Philippines",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        120.805,
+        15.828
+      ]
+    },
+    "Elevation": 376,
+    "Type": "Unknown",
+    "Status": "Fumarolic",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "989919f0-6eee-3f9f-7c49-3f648811509d"
+  },
+  {
+    "VolcanoName": "Amsterdam Island",
+    "Country": "Indian Ocean",
+    "Region": "Indian O-S",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        77.52,
+        -37.83
+      ]
+    },
+    "Elevation": 881,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "d0b6abc3-4ac6-ca05-5dff-840a296de750"
+  },
+  {
+    "VolcanoName": "Amukta",
+    "Country": "United States",
+    "Region": "Aleutian Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -171.25,
+        52.5
+      ]
+    },
+    "Elevation": 1066,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "e1617302-f42f-fbb8-5570-6843eb244cde"
+  },
+  {
+    "VolcanoName": "Anatahan",
+    "Country": "United States",
+    "Region": "Mariana Is-C Pacific",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        145.67,
+        16.35
+      ]
+    },
+    "Elevation": 788,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "b9ae0093-791d-a289-abc9-deceebc12ff8"
+  },
+  {
+    "VolcanoName": "Anaun",
+    "Country": "Russia",
+    "Region": "Kamchatka",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        158.83,
+        56.32
+      ]
+    },
+    "Elevation": 1828,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "36145835-b8fd-de58-bed8-8171b316c4c0"
+  },
+  {
+    "VolcanoName": "Andahua Valley",
+    "Country": "Peru",
+    "Region": "Peru",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.33,
+        -15.42
+      ]
+    },
+    "Elevation": 4713,
+    "Type": "Cinder cone",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "0434f857-91b7-d817-8163-8a9c1437da35"
+  },
+  {
+    "VolcanoName": "Andrus",
+    "Country": "Antarctica",
+    "Region": "Antarctica",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -132.33,
+        -75.8
+      ]
+    },
+    "Elevation": 2978,
+    "Type": "Shield volcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "f79ffb06-5ed0-4eb4-c146-44bfd8e2a743"
+  },
+  {
+    "VolcanoName": "Aneityum",
+    "Country": "Vanuatu",
+    "Region": "Vanuatu-SW Pacific",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        169.83,
+        -20.2
+      ]
+    },
+    "Elevation": 852,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "b5b5a510-6af1-4681-ce9e-fd17db02277d"
+  },
+  {
+    "VolcanoName": "Aniakchak",
+    "Country": "United States",
+    "Region": "Alaska Peninsula",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -158.17,
+        56.88
+      ]
+    },
+    "Elevation": 1341,
+    "Type": "Caldera",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "b7d647f3-7d8b-d4d8-8239-68f9d96343ad"
+  },
+  {
+    "VolcanoName": "Ankaizina Field",
+    "Country": "Madagascar",
+    "Region": "Madagascar",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        48.67,
+        -14.3
+      ]
+    },
+    "Elevation": 2878,
+    "Type": "Cinder cone",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "c011a810-6686-e39b-9aa8-ddb99653b92a"
+  },
+  {
+    "VolcanoName": "Ankaratra Field",
+    "Country": "Madagascar",
+    "Region": "Madagascar",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        47.2,
+        -19.4
+      ]
+    },
+    "Elevation": 2644,
+    "Type": "Cinder cone",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "eabf717d-a74a-352c-f6a8-35f0aedf9ec3"
+  },
+  {
+    "VolcanoName": "Antillanca Group",
+    "Country": "Chile",
+    "Region": "Chile-C",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.153,
+        -40.771
+      ]
+    },
+    "Elevation": 1990,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "44db6cc6-db8b-43ba-28b2-8f17d9d071ba"
+  },
+  {
+    "VolcanoName": "Antipodes Island",
+    "Country": "New Zealand",
+    "Region": "Pacific-S",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        178.767,
+        -49.683
+      ]
+    },
+    "Elevation": 402,
+    "Type": "Pyroclastic cones",
+    "Status": "Holocene?",
+    "LastKnownEruption": "Uncertain Holocene eruption",
+    "id": "ca021eec-d2ea-4405-c158-96cf42aba5f7"
+  },
+  {
+    "VolcanoName": "Antisana",
+    "Country": "Ecuador",
+    "Region": "Ecuador",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -78.141,
+        -0.481
+      ]
+    },
+    "Elevation": 5753,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1800-1899, inclusive",
+    "id": "19654a02-76a6-c78a-02bb-0a5fd2b7a8c2"
+  },
+  {
+    "VolcanoName": "Antofagasta de la Sierra",
+    "Country": "Argentina",
+    "Region": "Argentina",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -67.5,
+        -26.08
+      ]
+    },
+    "Elevation": 4000,
+    "Type": "Scoria cone",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "e13eb27a-3d26-f1f3-d4c2-549451990869"
+  },
+  {
+    "VolcanoName": "Antofagasta de la Sierra",
+    "Country": "Argentina",
+    "Region": "Argentina",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -67.5,
+        -26.083
+      ]
+    },
+    "Elevation": 4000,
+    "Type": "Scoria cones",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "e00eb831-c762-fd6e-c35b-b196563e444e"
+  },
+  {
+    "VolcanoName": "Antofalla",
+    "Country": "Argentina",
+    "Region": "Argentina",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -68,
+        -25.53
+      ]
+    },
+    "Elevation": 6100,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "c9ba5e67-c546-844e-da77-21f25370371d"
+  },
+  {
+    "VolcanoName": "Antuco",
+    "Country": "Chile",
+    "Region": "Chile-C",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -71.349,
+        -37.406
+      ]
+    },
+    "Elevation": 2979,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1800-1899, inclusive",
+    "id": "3dadd649-ef04-e7f4-973f-ee77bbc99e6d"
+  },
+  {
+    "VolcanoName": "Aoba",
+    "Country": "Vanuatu",
+    "Region": "Vanuatu-SW Pacific",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        167.83,
+        -15.4
+      ]
+    },
+    "Elevation": 1496,
+    "Type": "Shield volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "45cefa28-7958-2c6f-a392-8aa6696f7f90"
+  },
+  {
+    "VolcanoName": "Aoga-shima",
+    "Country": "Japan",
+    "Region": "Izu Is-Japan",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        139.77,
+        32.45
+      ]
+    },
+    "Elevation": 423,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1700-1799, inclusive",
+    "id": "a55f3ccd-cb7c-1eb0-87d9-42aab950b7ab"
+  },
+  {
+    "VolcanoName": "Apaneca Range",
+    "Country": "El Salvador",
+    "Region": "El Salvador",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -89.786,
+        13.891
+      ]
+    },
+    "Elevation": 2036,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "009641f2-2f40-87c3-1170-fadcfaf3069c"
+  },
+  {
+    "VolcanoName": "Apastepeque Field",
+    "Country": "El Salvador",
+    "Region": "El Salvador",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -88.77,
+        13.72
+      ]
+    },
+    "Elevation": 700,
+    "Type": "Volcanic field",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "7ce2129c-e071-a869-4186-8f9601e249e1"
+  },
+  {
+    "VolcanoName": "Apo",
+    "Country": "Philippines",
+    "Region": "Mindanao-Philippines",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        125.273,
+        6.987
+      ]
+    },
+    "Elevation": 2954,
+    "Type": "Stratovolcano",
+    "Status": "Fumarolic",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "4734c07b-d7cf-761d-1425-efe1c0dcc86d"
+  },
+  {
+    "VolcanoName": "Apoyeque",
+    "Country": "Nicaragua",
+    "Region": "Nicaragua",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -86.342,
+        12.242
+      ]
+    },
+    "Elevation": 518,
+    "Type": "Pyroclastic shield",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "2d45109c-babc-fbb1-abd3-b58ab0fabf5d"
+  },
+  {
+    "VolcanoName": "Aracar",
+    "Country": "Argentina",
+    "Region": "Argentina",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -67.77,
+        -24.27
+      ]
+    },
+    "Elevation": 6082,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "38b8c21f-5068-20ff-9add-a4cb033ee164"
+  },
+  {
+    "VolcanoName": "Aracar",
+    "Country": "Argentina",
+    "Region": "Argentina",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -67.767,
+        -24.25
+      ]
+    },
+    "Elevation": 6082,
+    "Type": "Stratovolcano",
+    "Status": "Uncertain",
+    "LastKnownEruption": "Uncertain Holocene eruption",
+    "id": "ed2cbae9-6496-43ab-fc10-f09cc545f896"
+  },
+  {
+    "VolcanoName": "Aragats",
+    "Country": "Armenia",
+    "Region": "Armenia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        44.12,
+        40.55
+      ]
+    },
+    "Elevation": 4090,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "7033abb7-f273-e66d-e6b0-dcbd76983ece"
+  },
+  {
+    "VolcanoName": "Aramuaca, Laguna",
+    "Country": "El Salvador",
+    "Region": "El Salvador",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -88.105,
+        13.428
+      ]
+    },
+    "Elevation": 180,
+    "Type": "Maar",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "4f7adb9e-0a94-334c-e7a6-e002b233cccf"
+  },
+  {
+    "VolcanoName": "Ararat",
+    "Country": "Turkey",
+    "Region": "Turkey",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        44.28,
+        39.7
+      ]
+    },
+    "Elevation": 5165,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "c0db7559-9662-bd60-30dd-df7834dbb6b5"
+  },
+  {
+    "VolcanoName": "Arayat",
+    "Country": "Philippines",
+    "Region": "Luzon-Philippines",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        120.742,
+        15.2
+      ]
+    },
+    "Elevation": 1026,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "8b0e5458-71e1-3002-9c1c-4dd5175f9f6c"
+  },
+  {
+    "VolcanoName": "Ardoukoba",
+    "Country": "Djibouti",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        42.47,
+        11.58
+      ]
+    },
+    "Elevation": 298,
+    "Type": "Fissure vent",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "73b16e0e-b976-ba4a-2198-37341e874649"
+  },
+  {
+    "VolcanoName": "Arenal",
+    "Country": "Costa Rica",
+    "Region": "Costa Rica",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -84.703,
+        10.463
+      ]
+    },
+    "Elevation": 1657,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "5fef8698-88e1-1f36-9fd8-5d23cec0da67"
+  },
+  {
+    "VolcanoName": "Arenales",
+    "Country": "Chile",
+    "Region": "Chile-S",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -73.483,
+        -47.2
+      ]
+    },
+    "Elevation": 3437,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "d313723b-b5e2-9fae-7d40-aeb1215a02bf"
+  },
+  {
+    "VolcanoName": "Arhab, Harra of",
+    "Country": "Yemen",
+    "Region": "Arabia-S",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        44.08,
+        15.63
+      ]
+    },
+    "Elevation": 3100,
+    "Type": "Volcanic field",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from A.D. 1-1499, inclusive",
+    "id": "2519a08b-f0b6-bef5-0aa8-8117f8218985"
+  },
+  {
+    "VolcanoName": "Arjuno-Welirang",
+    "Country": "Indonesia",
+    "Region": "Java",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        112.58,
+        -7.725
+      ]
+    },
+    "Elevation": 3339,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "fc64f9bf-4df4-5662-3565-f63e5dc9ec4b"
+  },
+  {
+    "VolcanoName": "Arshan",
+    "Country": "China",
+    "Region": "China-E",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        120.7,
+        47.5
+      ]
+    },
+    "Elevation": null,
+    "Type": "Cinder cones",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "0bd87c2e-8ab3-432e-8745-f7ce59b5b4b9"
+  },
+  {
+    "VolcanoName": "Asama",
+    "Country": "Japan",
+    "Region": "Honshu-Japan",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        138.53,
+        36.4
+      ]
+    },
+    "Elevation": 2560,
+    "Type": "Complex volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "003dd58b-3cf1-9093-bf9d-2d8d08cf5521"
+  },
+  {
+    "VolcanoName": "Asavyo",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        41.6,
+        13.07
+      ]
+    },
+    "Elevation": 1200,
+    "Type": "Shield volcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "a18af74e-d421-0a8f-59d3-ef86a61811d8"
+  },
+  {
+    "VolcanoName": "Ascension",
+    "Country": "Atlantic Ocean",
+    "Region": "Atlantic-S",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -14.37,
+        -7.95
+      ]
+    },
+    "Elevation": 858,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "de336a06-df33-62dc-b2b4-7f1450c975dc"
+  },
+  {
+    "VolcanoName": "Askja",
+    "Country": "Iceland",
+    "Region": "Iceland-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -16.75,
+        65.03
+      ]
+    },
+    "Elevation": 1516,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "72c18795-b674-cdaf-117f-5eba81988d23"
+  },
+  {
+    "VolcanoName": "Aso",
+    "Country": "Japan",
+    "Region": "Kyushu-Japan",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        131.1,
+        32.88
+      ]
+    },
+    "Elevation": 1592,
+    "Type": "Caldera",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "a67ef0f1-6438-7d06-17e7-3f0904f1fcde"
+  },
+  {
+    "VolcanoName": "Assab Volc Field",
+    "Country": "Eritrea",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        42.43,
+        12.95
+      ]
+    },
+    "Elevation": 987,
+    "Type": "Volcanic field",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "a66cbbb6-de30-65fd-5199-96d17327a9b2"
+  },
+  {
+    "VolcanoName": "Asuncion",
+    "Country": "United States",
+    "Region": "Mariana Is-C Pacific",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        145.4,
+        19.67
+      ]
+    },
+    "Elevation": 857,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "38080c8d-d495-ef83-6f73-371d930f7deb"
+  },
+  {
+    "VolcanoName": "Atacazo",
+    "Country": "Ecuador",
+    "Region": "Ecuador",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -78.617,
+        -0.353
+      ]
+    },
+    "Elevation": 4463,
+    "Type": "Stratovolcano",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "0c88d416-3c0d-550d-0f00-9692fc6e3812"
+  },
+  {
+    "VolcanoName": "Atakor Volc Field",
+    "Country": "Algeria",
+    "Region": "Africa-N",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        5.833,
+        23.333
+      ]
+    },
+    "Elevation": 2918,
+    "Type": "Scoria cones",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "b2872c4c-3001-9e0d-68fc-6fab296d18d8"
+  },
+  {
+    "VolcanoName": "Atitlan",
+    "Country": "Guatemala",
+    "Region": "Guatemala",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -91.186,
+        14.583
+      ]
+    },
+    "Elevation": 3535,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1800-1899, inclusive",
+    "id": "95773841-cfbb-241f-00d5-c2ffbd88d7d2"
+  },
+  {
+    "VolcanoName": "Atka",
+    "Country": "United States",
+    "Region": "Aleutian Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -174.15,
+        52.38
+      ]
+    },
+    "Elevation": 1533,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "2dbc466a-0183-e3dc-8083-31f1c94efae1"
+  },
+  {
+    "VolcanoName": "Atlasova",
+    "Country": "Russia",
+    "Region": "Kamchatka",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        160.65,
+        57.97
+      ]
+    },
+    "Elevation": 1764,
+    "Type": "Shield volcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "a11212aa-c166-0d86-b14a-5423079d520e"
+  },
+  {
+    "VolcanoName": "Atlixcos, Cerro Los",
+    "Country": "Mexico",
+    "Region": "Mexico",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -96.526,
+        19.809
+      ]
+    },
+    "Elevation": 800,
+    "Type": "Shield volcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "d7ce555f-3d2a-0abc-5956-3eef2a71b78f"
+  },
+  {
+    "VolcanoName": "Atsonupuri",
+    "Country": "Russia",
+    "Region": "Kuril Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        147.13,
+        44.804
+      ]
+    },
+    "Elevation": 1205,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "ee50b1c6-644e-6ad8-7b21-c788b45f45ad"
+  },
+  {
+    "VolcanoName": "Atuel, Caldera del",
+    "Country": "Argentina",
+    "Region": "Argentina",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -70.05,
+        -34.65
+      ]
+    },
+    "Elevation": 5189,
+    "Type": "Caldera",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "0e39b054-3c72-cbef-511a-a1460787395c"
+  },
+  {
+    "VolcanoName": "Auckland Field",
+    "Country": "New Zealand",
+    "Region": "New Zealand",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        174.87,
+        -36.9
+      ]
+    },
+    "Elevation": 260,
+    "Type": "Volcanic field",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption from A.D. 1-1499, inclusive",
+    "id": "82d8401c-5e05-5156-06a5-b3ee6639d55c"
+  },
+  {
+    "VolcanoName": "Augustine",
+    "Country": "United States",
+    "Region": "Alaska-SW",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -153.42,
+        59.37
+      ]
+    },
+    "Elevation": 1252,
+    "Type": "Lava dome",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "34f5fd05-c023-b845-42fa-d58bb5f3c967"
+  },
+  {
+    "VolcanoName": "Avachinsky",
+    "Country": "Russia",
+    "Region": "Kamchatka",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        158.83,
+        53.255
+      ]
+    },
+    "Elevation": 2741,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "ea683539-477a-50ad-7f58-f86c0697c1dd"
+  },
+  {
+    "VolcanoName": "Awu",
+    "Country": "Indonesia",
+    "Region": "Sangihe Is-Indonesia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        125.5,
+        3.67
+      ]
+    },
+    "Elevation": 1320,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "682efb9c-ddec-96ef-7664-3b4b7ab05be1"
+  },
+  {
+    "VolcanoName": "Axial Seamount",
+    "Country": "Pacific Ocean",
+    "Region": "Pacific-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -130,
+        45.95
+      ]
+    },
+    "Elevation": -1500,
+    "Type": "Submarine volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "14f5ae05-fb6f-f989-4239-05c4bfb7a3c7"
+  },
+  {
+    "VolcanoName": "Ayelu",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        40.702,
+        10.082
+      ]
+    },
+    "Elevation": 2145,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "2aa37dce-f10e-23eb-c3c3-eeb1d4a28a4e"
+  },
+  {
+    "VolcanoName": "Azufral, Volcan",
+    "Country": "Colombia",
+    "Region": "Colombia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -77.68,
+        1.08
+      ]
+    },
+    "Elevation": 4070,
+    "Type": "Stratovolcano",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "b90da8c7-2324-9882-3608-23500183af5f"
+  },
+  {
+    "VolcanoName": "Azul, Cerro",
+    "Country": "Ecuador",
+    "Region": "Galapagos",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -91.42,
+        -0.9
+      ]
+    },
+    "Elevation": 1690,
+    "Type": "Shield volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "9ea3d20d-ae99-9f7e-9c70-69781d4d7c84"
+  },
+  {
+    "VolcanoName": "Azul, Cerro [Quizapu]",
+    "Country": "Chile",
+    "Region": "Chile-C",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -70.761,
+        -35.653
+      ]
+    },
+    "Elevation": 3788,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "1e0d17ef-8829-cb64-3089-ed897ddc6233"
+  },
+  {
+    "VolcanoName": "Azul, Volcan",
+    "Country": "Nicaragua",
+    "Region": "Nicaragua",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -83.87,
+        12.53
+      ]
+    },
+    "Elevation": 201,
+    "Type": "Cinder cone",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "417b8267-b75d-2c47-6b95-3f6081afaf64"
+  },
+  {
+    "VolcanoName": "Azuma",
+    "Country": "Japan",
+    "Region": "Honshu-Japan",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        140.25,
+        37.73
+      ]
+    },
+    "Elevation": 2024,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "f48b85f5-bc5a-31e7-8506-c2dd6d07ed68"
+  },
+  {
+    "VolcanoName": "Babuyan Claro",
+    "Country": "Philippines",
+    "Region": "Luzon-N of",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        121.94,
+        19.523
+      ]
+    },
+    "Elevation": 1180,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "e31f6a7f-351f-b113-611d-440c403b9115"
+  },
+  {
+    "VolcanoName": "Bachelor",
+    "Country": "United States",
+    "Region": "US-Oregon",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -121.688,
+        43.979
+      ]
+    },
+    "Elevation": 2763,
+    "Type": "Stratovolcano",
+    "Status": "Tephrochronology",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "3d7ab64b-f71a-07cd-86f9-7a47f14d2244"
+  },
+  {
+    "VolcanoName": "Bagana",
+    "Country": "Papua New Guinea",
+    "Region": "Bougainville-SW Paci",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        155.195,
+        -6.14
+      ]
+    },
+    "Elevation": 1750,
+    "Type": "Lava cone",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "f76f6c9f-23a7-8ea5-2d37-46632f97a567"
+  },
+  {
+    "VolcanoName": "Bakenin",
+    "Country": "Russia",
+    "Region": "Kamchatka",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        158.07,
+        53.905
+      ]
+    },
+    "Elevation": 2278,
+    "Type": "Stratovolcano",
+    "Status": "Tephrochronology",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "fad71886-a263-78b7-1af6-3190b77d94fe"
+  },
+  {
+    "VolcanoName": "Baker",
+    "Country": "United States",
+    "Region": "US-Washington",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -121.82,
+        48.786
+      ]
+    },
+    "Elevation": 3285,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1800-1899, inclusive",
+    "id": "1d1913ad-fff9-c2aa-2ff9-9f67deda3578"
+  },
+  {
+    "VolcanoName": "Bal Haf, Harra of",
+    "Country": "Yemen",
+    "Region": "Arabia-S",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        48.33,
+        14.05
+      ]
+    },
+    "Elevation": 233,
+    "Type": "Volcanic field",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "9a347c65-d2dc-749a-6b7b-a126ec79befa"
+  },
+  {
+    "VolcanoName": "Balatocan",
+    "Country": "Philippines",
+    "Region": "Mindanao-Philippines",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        124.92,
+        8.8
+      ]
+    },
+    "Elevation": 2450,
+    "Type": "Compound volcano",
+    "Status": "Fumarolic",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "c1b1e852-fff8-0b1b-3aca-5e77ed56cc5a"
+  },
+  {
+    "VolcanoName": "Balbi",
+    "Country": "Papua New Guinea",
+    "Region": "Bougainville-SW Paci",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        154.98,
+        -5.83
+      ]
+    },
+    "Elevation": 2715,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "b469a510-e7ac-1251-2556-f01f15039484"
+  },
+  {
+    "VolcanoName": "Bald Knoll",
+    "Country": "United States",
+    "Region": "US-Utah",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -112.408,
+        37.328
+      ]
+    },
+    "Elevation": 2135,
+    "Type": "Cinder cone",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "b3a51bfb-13ca-a3c5-2ee2-44e59ed4d266"
+  },
+  {
+    "VolcanoName": "Baluan",
+    "Country": "United States",
+    "Region": "Admiralty Is-SW Paci",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        147.28,
+        -2.57
+      ]
+    },
+    "Elevation": 254,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "63b6909e-c991-18e5-3d5a-ad40cdb23f6d"
+  },
+  {
+    "VolcanoName": "Baluran",
+    "Country": "Indonesia",
+    "Region": "Java",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        114.37,
+        -7.85
+      ]
+    },
+    "Elevation": 1247,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "8a4dfebf-21de-a8ea-281e-f0ab5b86ebd0"
+  },
+  {
+    "VolcanoName": "Balut",
+    "Country": "Philippines",
+    "Region": "Mindanao-Philippines",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        125.375,
+        5.4
+      ]
+    },
+    "Elevation": 852,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "c5b03a9c-d242-6c72-5290-0c6cf20b681d"
+  },
+  {
+    "VolcanoName": "Bam",
+    "Country": "Papua New Guinea",
+    "Region": "New Guinea-NE of",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        144.85,
+        -3.6
+      ]
+    },
+    "Elevation": 685,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "1ad58577-ae8e-f0b8-6a06-de9e2d2dcf6e"
+  },
+  {
+    "VolcanoName": "Bamus",
+    "Country": "Papua New Guinea",
+    "Region": "New Britain-SW Pac",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        151.23,
+        -5.2
+      ]
+    },
+    "Elevation": 2248,
+    "Type": "Stratovolcano",
+    "Status": "Anthropology",
+    "LastKnownEruption": "LastKnownEruption from 1800-1899, inclusive",
+    "id": "b58d00d0-4be8-cb65-6b51-b3d07f82f3b3"
+  },
+  {
+    "VolcanoName": "Banahao",
+    "Country": "Philippines",
+    "Region": "Luzon-Philippines",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        121.48,
+        14.07
+      ]
+    },
+    "Elevation": 2158,
+    "Type": "Complex volcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "3480dffb-00a5-efad-bad5-21547ac94cb9"
+  },
+  {
+    "VolcanoName": "Banda Api",
+    "Country": "Pacific Ocean",
+    "Region": "Banda Sea",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        129.871,
+        -4.525
+      ]
+    },
+    "Elevation": 640,
+    "Type": "Caldera",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "1aeb479d-9b7a-4a59-1c28-35f0adc06240"
+  },
+  {
+    "VolcanoName": "Bandai",
+    "Country": "Japan",
+    "Region": "Honshu-Japan",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        140.08,
+        37.6
+      ]
+    },
+    "Elevation": 1819,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1800-1899, inclusive",
+    "id": "23ab07cd-6635-047b-dd96-f05833027ff6"
+  },
+  {
+    "VolcanoName": "Banua Wuhu",
+    "Country": "Indonesia",
+    "Region": "Sangihe Is-Indonesia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        125.491,
+        3.138
+      ]
+    },
+    "Elevation": -5,
+    "Type": "Submarine volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "a1d7f038-11cb-a215-7bc4-50f1eb456847"
+  },
+  {
+    "VolcanoName": "Baransky",
+    "Country": "Russia",
+    "Region": "Kuril Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        148.02,
+        45.1
+      ]
+    },
+    "Elevation": 1132,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "1673197a-1479-6b1e-363e-440ebd3c8235"
+  },
+  {
+    "VolcanoName": "Barcena",
+    "Country": "Mexico",
+    "Region": "Mexico-Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -110.82,
+        19.3
+      ]
+    },
+    "Elevation": 332,
+    "Type": "Cinder cone",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "2b2fdadc-a059-29b4-5761-eafb2cb07f35"
+  },
+  {
+    "VolcanoName": "Bardarbunga",
+    "Country": "Iceland",
+    "Region": "Iceland-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -17.53,
+        64.63
+      ]
+    },
+    "Elevation": 2000,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "af682842-f50b-33cd-4140-f1b721192559"
+  },
+  {
+    "VolcanoName": "Barkhatnaya Sopka",
+    "Country": "Russia",
+    "Region": "Kamchatka",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        158.27,
+        52.823
+      ]
+    },
+    "Elevation": 870,
+    "Type": "Lava dome",
+    "Status": "Tephrochronology",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "39187c90-ef91-c3a9-1689-0be046c24e62"
+  },
+  {
+    "VolcanoName": "Barren Island",
+    "Country": "India",
+    "Region": "Andaman Is-Indian O",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        93.875,
+        12.292
+      ]
+    },
+    "Elevation": 354,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "9fe273a6-32e6-4e12-3f60-0798f701e2fe"
+  },
+  {
+    "VolcanoName": "Barrier, The",
+    "Country": "Kenya",
+    "Region": "Africa-E",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        36.57,
+        2.32
+      ]
+    },
+    "Elevation": 1032,
+    "Type": "Shield volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "ca7f5089-11e8-1ca2-b4ea-fcebfa4058c8"
+  },
+  {
+    "VolcanoName": "Baru",
+    "Country": "Panama",
+    "Region": "Panama",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -82.558,
+        8.8
+      ]
+    },
+    "Elevation": 3477,
+    "Type": "Complex volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1500-1699, inclusive",
+    "id": "1f7825f6-b06e-9d0d-42e6-3c0b72241299"
+  },
+  {
+    "VolcanoName": "Barva",
+    "Country": "Costa Rica",
+    "Region": "Costa Rica",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -84.1,
+        10.135
+      ]
+    },
+    "Elevation": 2906,
+    "Type": "Complex volcano",
+    "Status": "Tephrochronology",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "94f3a5c2-644b-65ee-eacb-73eae34c7785"
+  },
+  {
+    "VolcanoName": "Bas Dong Nai",
+    "Country": "Vietnam",
+    "Region": "SE Asia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        107.2,
+        10.8
+      ]
+    },
+    "Elevation": 392,
+    "Type": "Volcanic field",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "72f1ef6b-9f55-dbe9-9d37-97467e1dfba1"
+  },
+  {
+    "VolcanoName": "Batur",
+    "Country": "Indonesia",
+    "Region": "Lesser Sunda Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        115.375,
+        -8.242
+      ]
+    },
+    "Elevation": 1717,
+    "Type": "Caldera",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "84b5c55c-8005-90e1-41fe-2ef275085c54"
+  },
+  {
+    "VolcanoName": "Bayo, Cerro",
+    "Country": "Argentina",
+    "Region": "Chile-N",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -68.58,
+        -25.42
+      ]
+    },
+    "Elevation": 5401,
+    "Type": "Complex volcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "ae5a1a64-d1f9-fe70-5b87-e19f8a6a729e"
+  },
+  {
+    "VolcanoName": "Bayonnaise Rocks",
+    "Country": "Japan",
+    "Region": "Izu Is-Japan",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        139.92,
+        31.92
+      ]
+    },
+    "Elevation": 10,
+    "Type": "Submarine volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "a8bfa577-5d16-ad99-e978-702f44d9073c"
+  },
+  {
+    "VolcanoName": "Bayuda Volc Field",
+    "Country": "Sudan",
+    "Region": "Africa-N",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        32.75,
+        18.33
+      ]
+    },
+    "Elevation": 0,
+    "Type": "Cinder cone",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption from A.D. 1-1499, inclusive",
+    "id": "aabacb57-aee1-bcd1-912d-6c61d731bfb4"
+  },
+  {
+    "VolcanoName": "Bazman",
+    "Country": "Iran",
+    "Region": "Iran",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        60,
+        28.07
+      ]
+    },
+    "Elevation": 3490,
+    "Type": "Stratovolcano",
+    "Status": "Fumarolic",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "3e98a252-34a2-e770-d8f4-b1ce847a87d8"
+  },
+  {
+    "VolcanoName": "Behm Canal-Rudyerd Bay",
+    "Country": "United States",
+    "Region": "Alaska-SE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -131.05,
+        55.32
+      ]
+    },
+    "Elevation": 500,
+    "Type": "Cinder cone",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "3999c8e4-4a6c-1ed1-c766-153e84617134"
+  },
+  {
+    "VolcanoName": "Belenkaya",
+    "Country": "Russia",
+    "Region": "Kamchatka",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        157.27,
+        51.75
+      ]
+    },
+    "Elevation": 892,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "7fd7ac46-adca-e165-e8b6-030ee4c6331c"
+  },
+  {
+    "VolcanoName": "Belirang-Beriti",
+    "Country": "Indonesia",
+    "Region": "Sumatra",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        102.18,
+        -2.82
+      ]
+    },
+    "Elevation": 1958,
+    "Type": "Compound volcano",
+    "Status": "Fumarolic",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "38ae9e9c-2345-eb82-f59f-7cb839c6a780"
+  },
+  {
+    "VolcanoName": "Belknap",
+    "Country": "United States",
+    "Region": "US-Oregon",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -121.841,
+        44.285
+      ]
+    },
+    "Elevation": 2095,
+    "Type": "Shield volcano",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption from A.D. 1-1499, inclusive",
+    "id": "2bb9f2d1-c7a1-cedd-c061-8775cf389cc5"
+  },
+  {
+    "VolcanoName": "Bely",
+    "Country": "Russia",
+    "Region": "Kamchatka",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        160.53,
+        57.88
+      ]
+    },
+    "Elevation": 2080,
+    "Type": "Shield volcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "69feb266-b3bd-71ba-b224-c3b0a7d31a00"
+  },
+  {
+    "VolcanoName": "Berlin",
+    "Country": "Antarctica",
+    "Region": "Antarctica",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -136,
+        -76.05
+      ]
+    },
+    "Elevation": 3478,
+    "Type": "Shield volcano",
+    "Status": "Fumarolic",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "0546b0a5-087c-a5e7-f26d-25b7c14293e4"
+  },
+  {
+    "VolcanoName": "Beru",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        39.75,
+        8.95
+      ]
+    },
+    "Elevation": 1100,
+    "Type": "Volcanic field",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "a2f42b40-02da-d8b2-8c97-f83e1e22bf18"
+  },
+  {
+    "VolcanoName": "Berutarube",
+    "Country": "Russia",
+    "Region": "Kuril Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        146.93,
+        44.47
+      ]
+    },
+    "Elevation": 1220,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "44835bb5-87ab-6726-1a96-16c778fe1a6d"
+  },
+  {
+    "VolcanoName": "Besar",
+    "Country": "Indonesia",
+    "Region": "Sumatra",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        103.67,
+        -4.43
+      ]
+    },
+    "Elevation": 1899,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "97512e77-dd1c-877e-4894-c77702e8626b"
+  },
+  {
+    "VolcanoName": "Bezymianny",
+    "Country": "Russia",
+    "Region": "Kamchatka",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        160.587,
+        55.978
+      ]
+    },
+    "Elevation": 2882,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "495a1e1c-89ba-3fcc-56b9-28bdb0c8bf6f"
+  },
+  {
+    "VolcanoName": "Bibinoi",
+    "Country": "Indonesia",
+    "Region": "Halmahera-Indonesia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        127.72,
+        -0.78
+      ]
+    },
+    "Elevation": 900,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "210ea78f-70fd-d317-2ab8-476efbb91554"
+  },
+  {
+    "VolcanoName": "Big Cave",
+    "Country": "United States",
+    "Region": "US-California",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -121.365,
+        40.955
+      ]
+    },
+    "Elevation": 1259,
+    "Type": "Shield volcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "610bd44f-8ab4-6a5c-4e8d-5dd40679974d"
+  },
+  {
+    "VolcanoName": "Bilate River Field",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        38.1,
+        7.07
+      ]
+    },
+    "Elevation": 1700,
+    "Type": "Maar",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "ee0a958e-60c0-3b8f-abce-a74de86fdeb0"
+  },
+  {
+    "VolcanoName": "Biliran",
+    "Country": "Philippines",
+    "Region": "Philippines-C",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        124.534,
+        11.523
+      ]
+    },
+    "Elevation": 1187,
+    "Type": "Compound volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "7234cecc-fed6-5ddf-6103-23cc212e62b7"
+  },
+  {
+    "VolcanoName": "Billy Mitchell",
+    "Country": "Papua New Guinea",
+    "Region": "Bougainville-SW Paci",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        155.225,
+        -6.092
+      ]
+    },
+    "Elevation": 1544,
+    "Type": "Pyroclastic shield",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption from 1500-1699, inclusive",
+    "id": "1d0d9ec9-c054-62ff-5217-54aa1bbe7162"
+  },
+  {
+    "VolcanoName": "Bir Borhut",
+    "Country": "Yemen",
+    "Region": "Arabia-S",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        50.63,
+        15.55
+      ]
+    },
+    "Elevation": 0,
+    "Type": "Volcanic field",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "ffe61023-35a7-1163-43be-8c489a1ec20f"
+  },
+  {
+    "VolcanoName": "Birk, Harrat al",
+    "Country": "Saudi Arabia",
+    "Region": "Arabia-W",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        41.633,
+        18.367
+      ]
+    },
+    "Elevation": 381,
+    "Type": "Volcanic field",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "4e73ca77-2c31-de13-7f2b-d5594a332a12"
+  },
+  {
+    "VolcanoName": "Bishoftu Volc Field",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        38.98,
+        8.78
+      ]
+    },
+    "Elevation": 1850,
+    "Type": "Fissure vent",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "77f6d13f-5e27-1cf9-da80-02febfb32084"
+  },
+  {
+    "VolcanoName": "Biu Plateau",
+    "Country": "Nigeria",
+    "Region": "Africa-W",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        12,
+        10.75
+      ]
+    },
+    "Elevation": 0,
+    "Type": "Volcanic field",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "962003b1-c2f1-4720-720e-51ad5ce5fdd8"
+  },
+  {
+    "VolcanoName": "Black Peak",
+    "Country": "United States",
+    "Region": "Alaska Peninsula",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -158.8,
+        56.53
+      ]
+    },
+    "Elevation": 1032,
+    "Type": "Stratovolcano",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "e7035762-c0aa-857e-8768-92be010d8c9c"
+  },
+  {
+    "VolcanoName": "Black Rock Desert",
+    "Country": "United States",
+    "Region": "US-Utah",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -112.5,
+        38.97
+      ]
+    },
+    "Elevation": 1800,
+    "Type": "Volcanic field",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption from A.D. 1-1499, inclusive",
+    "id": "2127b71b-90cd-7671-30ee-34cd6240fbcb"
+  },
+  {
+    "VolcanoName": "Blanca, Loma",
+    "Country": "Chile",
+    "Region": "Chile-C",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -71.009,
+        -36.286
+      ]
+    },
+    "Elevation": 2268,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "5f170f4d-f12e-39c9-057a-82ed2eb45832"
+  },
+  {
+    "VolcanoName": "Bliznets",
+    "Country": "Russia",
+    "Region": "Kamchatka",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        159.78,
+        56.97
+      ]
+    },
+    "Elevation": 1244,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "950d2c43-30aa-8bdc-a5dd-b546c913464e"
+  },
+  {
+    "VolcanoName": "Bliznetsy",
+    "Country": "Russia",
+    "Region": "Kamchatka",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        161.367,
+        57.35
+      ]
+    },
+    "Elevation": 265,
+    "Type": "Lava cone",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "61dbb263-b7fc-be46-672c-c21f1e1e76b4"
+  },
+  {
+    "VolcanoName": "Blue Lake Crater",
+    "Country": "United States",
+    "Region": "US-Oregon",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -121.77,
+        44.42
+      ]
+    },
+    "Elevation": 1230,
+    "Type": "Maar",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "d86b6779-0335-d257-6aff-1990f19ce4fa"
+  },
+  {
+    "VolcanoName": "Blup Blup",
+    "Country": "Papua New Guinea",
+    "Region": "New Guinea-NE of",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        144.62,
+        -3.508
+      ]
+    },
+    "Elevation": 402,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "cb8e5a8f-e135-67e6-f226-c498f630823a"
+  },
+  {
+    "VolcanoName": "Bobrof",
+    "Country": "United States",
+    "Region": "Aleutian Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -177.43,
+        51.9
+      ]
+    },
+    "Elevation": 738,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "34892def-2f5f-097e-2a45-b9c7ce8504cd"
+  },
+  {
+    "VolcanoName": "Bogatyr Ridge",
+    "Country": "Russia",
+    "Region": "Kuril Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        147.37,
+        44.83
+      ]
+    },
+    "Elevation": 1634,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "ea394244-f66a-8d47-9a4c-71e848e9611a"
+  },
+  {
+    "VolcanoName": "Bogoslof",
+    "Country": "United States",
+    "Region": "Aleutian Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -168.03,
+        53.93
+      ]
+    },
+    "Elevation": 101,
+    "Type": "Submarine volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "7bf90b76-6d3a-1326-552d-f5b85010d5d6"
+  },
+  {
+    "VolcanoName": "Boisa",
+    "Country": "Papua New Guinea",
+    "Region": "New Guinea-NE of",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        144.963,
+        -3.994
+      ]
+    },
+    "Elevation": 240,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "7c6f20ac-3edd-0de3-810a-8954cc9cdb8d"
+  },
+  {
+    "VolcanoName": "Bola",
+    "Country": "Papua New Guinea",
+    "Region": "New Britain-SW Pac",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        150.03,
+        -5.15
+      ]
+    },
+    "Elevation": 1155,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "cfe77918-a077-5ad1-a5a9-68eb2504b8de"
+  },
+  {
+    "VolcanoName": "Bolshe-Bannaya",
+    "Country": "Russia",
+    "Region": "Kamchatka",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        157.78,
+        52.9
+      ]
+    },
+    "Elevation": 1200,
+    "Type": "Lava dome",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "87aa08ae-d65b-d2ac-70c2-2d7584c31c13"
+  },
+  {
+    "VolcanoName": "Bolshoi Payalpan",
+    "Country": "Russia",
+    "Region": "Kamchatka",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        157.78,
+        55.88
+      ]
+    },
+    "Elevation": 1906,
+    "Type": "Shield volcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "c1b3fea6-5c3e-7954-3340-bff6fda815ab"
+  },
+  {
+    "VolcanoName": "Bolshoi Semiachik",
+    "Country": "Russia",
+    "Region": "Kamchatka",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        160.02,
+        54.32
+      ]
+    },
+    "Elevation": 1720,
+    "Type": "Stratovolcano",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "ced85d8f-e2a9-c698-b6c7-3fa53f631839"
+  },
+  {
+    "VolcanoName": "Bolshoi-Kekuknaysky",
+    "Country": "Russia",
+    "Region": "Kamchatka",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        157.8,
+        56.47
+      ]
+    },
+    "Elevation": 1401,
+    "Type": "Shield volcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "989ca4e4-13e2-ad3b-ee7a-bce203d3afa6"
+  },
+  {
+    "VolcanoName": "Bombalai",
+    "Country": "Malaysia",
+    "Region": "Borneo",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        117.88,
+        4.4
+      ]
+    },
+    "Elevation": 531,
+    "Type": "Pyroclastic cone",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "7302faad-33e3-9920-e24c-59b99cb084c9"
+  },
+  {
+    "VolcanoName": "Bona-Churchill",
+    "Country": "United States",
+    "Region": "Alaska-E",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -141.75,
+        61.38
+      ]
+    },
+    "Elevation": 5005,
+    "Type": "Stratovolcano",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption from A.D. 1-1499, inclusive",
+    "id": "0911c097-4184-873c-e80b-7a1cec234a9c"
+  },
+  {
+    "VolcanoName": "Boomerang Seamount",
+    "Country": "Antarctica",
+    "Region": "Indian O.-S",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        77.825,
+        -37.721
+      ]
+    },
+    "Elevation": -650,
+    "Type": "Submarine volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "4fd125ee-dd43-f3e9-733d-b1400565b4a5"
+  },
+  {
+    "VolcanoName": "Bora-Bericcio Complex",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        39.03,
+        8.27
+      ]
+    },
+    "Elevation": 2285,
+    "Type": "Pumice cone",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "437aa29f-3fa8-282f-14b0-4261cecf0fda"
+  },
+  {
+    "VolcanoName": "Borale Ale",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        40.6,
+        13.725
+      ]
+    },
+    "Elevation": 668,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "92e5d228-7894-9b01-31fe-7d507c73c515"
+  },
+  {
+    "VolcanoName": "Borawli",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        40.98,
+        13.3
+      ]
+    },
+    "Elevation": 812,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "4d754b95-336c-1e0d-02fa-b1e837716ff5"
+  },
+  {
+    "VolcanoName": "Borawli Complex",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        41.45,
+        11.63
+      ]
+    },
+    "Elevation": 875,
+    "Type": "Lava dome",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "4ca14ac2-0887-48d0-cd67-68ff239abf83"
+  },
+  {
+    "VolcanoName": "Boset-Bericha",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        39.475,
+        8.558
+      ]
+    },
+    "Elevation": 2447,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "859314b7-aa49-8dbd-baff-9a635ae0fa7e"
+  },
+  {
+    "VolcanoName": "Bouvet",
+    "Country": "Bouvet I.",
+    "Region": "Atlantic-S",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        3.35,
+        -54.42
+      ]
+    },
+    "Elevation": 780,
+    "Type": "Shield volcano",
+    "Status": "Magnetism",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "fe6b7d6d-40a9-db5d-58d1-35a3009b1ab7"
+  },
+  {
+    "VolcanoName": "Bratan",
+    "Country": "Indonesia",
+    "Region": "Lesser Sunda Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        115.13,
+        -8.28
+      ]
+    },
+    "Elevation": 2276,
+    "Type": "Caldera",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "35e56ed5-faca-21bd-fca1-3b06be63d1f6"
+  },
+  {
+    "VolcanoName": "Brava",
+    "Country": "Cape Verde",
+    "Region": "Cape Verde Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -24.72,
+        14.85
+      ]
+    },
+    "Elevation": 900,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "f066e823-4556-1eb2-c960-69eb8230a2b2"
+  },
+  {
+    "VolcanoName": "Bravo, Cerro",
+    "Country": "Colombia",
+    "Region": "Colombia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -75.3,
+        5.092
+      ]
+    },
+    "Elevation": 4000,
+    "Type": "Stratovolcano",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption from 1700-1799, inclusive",
+    "id": "39498c3e-869e-5442-58fe-0388a8086d24"
+  },
+  {
+    "VolcanoName": "Bravo, Cerro",
+    "Country": "Colombia",
+    "Region": "Colombia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -75.3,
+        5.092
+      ]
+    },
+    "Elevation": 4000,
+    "Type": "Stratovolcano",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption from 1700-1799, inclusive",
+    "id": "3600aa52-f6ed-1cc2-ac82-36b1a749bc0e"
+  },
+  {
+    "VolcanoName": "Brennisteinsfjoll",
+    "Country": "Iceland",
+    "Region": "Iceland-SW",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -21.83,
+        63.92
+      ]
+    },
+    "Elevation": 626,
+    "Type": "Crater rows",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from A.D. 1-1499, inclusive",
+    "id": "1242222a-0581-0243-0f8d-051e08c06fe7"
+  },
+  {
+    "VolcanoName": "Bridge River Cones",
+    "Country": "Canada",
+    "Region": "Canada",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -123.4,
+        50.8
+      ]
+    },
+    "Elevation": 2500,
+    "Type": "Volcanic field",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "757d8809-7db6-03bb-6d9d-18501baacb58"
+  },
+  {
+    "VolcanoName": "Bridgeman Island",
+    "Country": "Antarctica",
+    "Region": "Antarctica",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -56.75,
+        -62.05
+      ]
+    },
+    "Elevation": 240,
+    "Type": "Stratovolcano",
+    "Status": "Uncertain",
+    "LastKnownEruption": "Unknown",
+    "id": "4b4bfd5a-11b8-de97-0b08-9fb747521c0d"
+  },
+  {
+    "VolcanoName": "Brimstone Island",
+    "Country": "New Zealand",
+    "Region": "Kermadec Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -178.92,
+        -30.23
+      ]
+    },
+    "Elevation": -2000,
+    "Type": "Submarine volcano",
+    "Status": "Uncertain",
+    "LastKnownEruption": "Unknown",
+    "id": "3404ee74-26d4-4c7f-2956-36553378232e"
+  },
+  {
+    "VolcanoName": "Bristol Island",
+    "Country": "Antarctica",
+    "Region": "Antarctica",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -26.58,
+        -59.03
+      ]
+    },
+    "Elevation": 1100,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "ef41d571-a462-259f-21f8-89b9a05f2be7"
+  },
+  {
+    "VolcanoName": "Brothers",
+    "Country": "New Zealand",
+    "Region": "New Zealand",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        179.075,
+        -34.875
+      ]
+    },
+    "Elevation": -1350,
+    "Type": "Submarine volcano",
+    "Status": "Fumarolic",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "c4fb1c9a-61bf-5a51-d273-c7ab1db31fe9"
+  },
+  {
+    "VolcanoName": "Brushy Butte",
+    "Country": "United States",
+    "Region": "US-California",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -121.443,
+        41.178
+      ]
+    },
+    "Elevation": 1174,
+    "Type": "Shield volcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "fb7b16a4-c44f-16c3-06d4-306e0364cbca"
+  },
+  {
+    "VolcanoName": "Buckle Island",
+    "Country": "Antarctica",
+    "Region": "Antarctica",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        163.25,
+        -66.8
+      ]
+    },
+    "Elevation": 1239,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1800-1899, inclusive",
+    "id": "55f7e1c8-f960-3474-4524-f5d457c5e50d"
+  },
+  {
+    "VolcanoName": "Bud Dajo",
+    "Country": "Philippines",
+    "Region": "Sulu Is-Philippines",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        121.07,
+        5.95
+      ]
+    },
+    "Elevation": 440,
+    "Type": "Pyroclastic cone",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1800-1899, inclusive",
+    "id": "437f0f44-be12-6f42-142f-787df9e7986b"
+  },
+  {
+    "VolcanoName": "Bufumbira",
+    "Country": "Uganda",
+    "Region": "Africa-C",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        29.72,
+        -1.23
+      ]
+    },
+    "Elevation": 2440,
+    "Type": "Cinder cone",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "e763151e-d980-d843-2e93-f4ab923bf902"
+  },
+  {
+    "VolcanoName": "Buldir",
+    "Country": "United States",
+    "Region": "Aleutian Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        175.98,
+        52.37
+      ]
+    },
+    "Elevation": 656,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "8a176a1b-2526-dd69-cf70-ad7ce960f38a"
+  },
+  {
+    "VolcanoName": "Bulusan",
+    "Country": "Philippines",
+    "Region": "Luzon-Philippines",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        124.05,
+        12.77
+      ]
+    },
+    "Elevation": 1565,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "50202cec-2c50-cc22-0e9c-367b18b8a654"
+  },
+  {
+    "VolcanoName": "Bunyaruguru Field",
+    "Country": "Uganda",
+    "Region": "Africa-C",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        30.08,
+        -0.2
+      ]
+    },
+    "Elevation": 1554,
+    "Type": "Explosion crater",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "a7fe6b59-1d94-8f7e-1b4b-eb799226fb39"
+  },
+  {
+    "VolcanoName": "Burney, Monte",
+    "Country": "Chile",
+    "Region": "Chile-S",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -73.4,
+        -52.33
+      ]
+    },
+    "Elevation": 1758,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "2f0d020f-b4f4-2484-474c-96977740f666"
+  },
+  {
+    "VolcanoName": "Bus-Obo",
+    "Country": "Mongolia",
+    "Region": "Mongolia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        109.08,
+        47.12
+      ]
+    },
+    "Elevation": 1162,
+    "Type": "Cinder cone",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "9ad51d0b-c59a-ec74-22cf-8f25d196e655"
+  },
+  {
+    "VolcanoName": "Butajiri-Silti Field",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        38.35,
+        8.05
+      ]
+    },
+    "Elevation": 2281,
+    "Type": "Fissure vent",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "067a9c9d-7222-f9c4-68df-73ae43b6e41f"
+  },
+  {
+    "VolcanoName": "Buzzard Creek",
+    "Country": "United States",
+    "Region": "Alaska-E",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -148.42,
+        64.07
+      ]
+    },
+    "Elevation": 830,
+    "Type": "Tuff rings",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "72a763b4-f3d6-8aaf-021d-a469bb87849b"
+  },
+  {
+    "VolcanoName": "Cabalian",
+    "Country": "Philippines",
+    "Region": "Philippines-C",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        125.22,
+        10.287
+      ]
+    },
+    "Elevation": 945,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "8cf68617-4cc6-e615-c532-0ba44f090099"
+  },
+  {
+    "VolcanoName": "Caburga",
+    "Country": "Chile",
+    "Region": "Chile-C",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -71.83,
+        -39.2
+      ]
+    },
+    "Elevation": 995,
+    "Type": "Cinder cone",
+    "Status": "Tephrochronology",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "d3a0e04e-4450-3051-5948-7cc88ff62d61"
+  },
+  {
+    "VolcanoName": "Cagua",
+    "Country": "Philippines",
+    "Region": "Luzon-Philippines",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        122.123,
+        18.222
+      ]
+    },
+    "Elevation": 1133,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "4cf90b47-3061-b8ec-4d4e-111caadc93c5"
+  },
+  {
+    "VolcanoName": "Calabozos",
+    "Country": "Chile",
+    "Region": "Chile-C",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -70.496,
+        -35.558
+      ]
+    },
+    "Elevation": 3508,
+    "Type": "Caldera",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "1b2b8c2d-bf65-1d44-5674-6ba2932b8844"
+  },
+  {
+    "VolcanoName": "Calatrava Volc Field",
+    "Country": "Spain",
+    "Region": "Spain",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -4.017,
+        38.867
+      ]
+    },
+    "Elevation": 1117,
+    "Type": "Pyroclastic cones",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "894a24f8-426f-af90-303f-0f1176139e50"
+  },
+  {
+    "VolcanoName": "Calayo",
+    "Country": "Philippines",
+    "Region": "Mindanao-Philippines",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        125.068,
+        7.877
+      ]
+    },
+    "Elevation": 646,
+    "Type": "Tuff cone",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1800-1899, inclusive",
+    "id": "67e8b444-dc40-8ce2-4d8e-f65a10c7b85e"
+  },
+  {
+    "VolcanoName": "Calbuco",
+    "Country": "Chile",
+    "Region": "Chile-S",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.614,
+        -41.326
+      ]
+    },
+    "Elevation": 2003,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "342cc74f-38fa-8b04-d3ca-7a0c3cfba215"
+  },
+  {
+    "VolcanoName": "Callaqui",
+    "Country": "Chile",
+    "Region": "Chile-C",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -71.45,
+        -37.92
+      ]
+    },
+    "Elevation": 3164,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "4a34dbb8-aa2e-4fac-43af-426f53c88b5c"
+  },
+  {
+    "VolcanoName": "Cameroon, Mt.",
+    "Country": "Cameroon",
+    "Region": "Africa-W",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        9.17,
+        4.203
+      ]
+    },
+    "Elevation": 4095,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "6690f4c2-cd53-1a7a-db57-1a4f848395fb"
+  },
+  {
+    "VolcanoName": "Camiguin de Babuyanes",
+    "Country": "Philippines",
+    "Region": "Luzon-N of",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        121.86,
+        18.83
+      ]
+    },
+    "Elevation": 712,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1800-1899, inclusive",
+    "id": "402ef35c-4565-acee-abe6-a390ca0d6ad4"
+  },
+  {
+    "VolcanoName": "Campi Flegrei",
+    "Country": "Italy",
+    "Region": "Italy",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        14.139,
+        40.827
+      ]
+    },
+    "Elevation": 458,
+    "Type": "Caldera",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1500-1699, inclusive",
+    "id": "ed3dd87e-bdd9-b9ae-5a23-31e50a3e0f7d"
+  },
+  {
+    "VolcanoName": "Campi Flegrei Mar Sicilia",
+    "Country": "Italy",
+    "Region": "Italy",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        12.7,
+        37.1
+      ]
+    },
+    "Elevation": -8,
+    "Type": "Submarine volcanoes",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1800-1899, inclusive",
+    "id": "7caf5345-9f8b-e017-e74b-773674efd67e"
+  },
+  {
+    "VolcanoName": "Candlemas Island",
+    "Country": "Antarctica",
+    "Region": "Antarctica",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -26.67,
+        -57.08
+      ]
+    },
+    "Elevation": 550,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "10b6045c-714c-2f39-226c-6f1fa69d1683"
+  },
+  {
+    "VolcanoName": "Canlaon",
+    "Country": "Philippines",
+    "Region": "Philippines-C",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        123.132,
+        10.412
+      ]
+    },
+    "Elevation": 2435,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "569e3fce-c47f-eb40-66c7-a915abf826b7"
+  },
+  {
+    "VolcanoName": "Carlisle",
+    "Country": "United States",
+    "Region": "Aleutian Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -170.05,
+        52.9
+      ]
+    },
+    "Elevation": 1620,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1800-1899, inclusive",
+    "id": "67c17209-73d6-0fa8-ce81-1c267023efb8"
+  },
+  {
+    "VolcanoName": "Carran-Los Venados",
+    "Country": "Chile",
+    "Region": "Chile-C",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.07,
+        -40.35
+      ]
+    },
+    "Elevation": 1114,
+    "Type": "Pyroclastic cone",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "481968e5-2fc8-cecf-92ac-7ec7aac8289c"
+  },
+  {
+    "VolcanoName": "Carrizozo",
+    "Country": "United States",
+    "Region": "US-New Mexico",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -105.93,
+        33.78
+      ]
+    },
+    "Elevation": 1731,
+    "Type": "Cinder cone",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "2f7e115d-3882-c673-e520-6ec16a9e9aaf"
+  },
+  {
+    "VolcanoName": "Casiri, Nevados",
+    "Country": "Peru",
+    "Region": "Peru",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -69.82,
+        -17.47
+      ]
+    },
+    "Elevation": 5650,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "50abfe09-b9c5-bb95-3e8b-f1d1763bcc8c"
+  },
+  {
+    "VolcanoName": "Cayambe",
+    "Country": "Ecuador",
+    "Region": "Ecuador",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -77.986,
+        0.029
+      ]
+    },
+    "Elevation": 5790,
+    "Type": "Compound volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1700-1799, inclusive",
+    "id": "173b5441-a0e1-f584-f864-b900d30d93c8"
+  },
+  {
+    "VolcanoName": "Cayambe",
+    "Country": "Ecuador",
+    "Region": "Ecuador",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -77.986,
+        0.029
+      ]
+    },
+    "Elevation": 5790,
+    "Type": "Compound volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1700-1799, inclusive",
+    "id": "dc12ea68-b2ab-719c-9576-e5da3c83b661"
+  },
+  {
+    "VolcanoName": "Cayute-La Vigueria",
+    "Country": "Chile",
+    "Region": "Chile-S",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.27,
+        -41.25
+      ]
+    },
+    "Elevation": 506,
+    "Type": "Pyroclastic cone",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "eaffed24-e6b1-26fe-2ce4-31df22e381dd"
+  },
+  {
+    "VolcanoName": "Cayutu?-La Viguer?a",
+    "Country": "Chile",
+    "Region": "Chile-S",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.267,
+        -41.25
+      ]
+    },
+    "Elevation": 506,
+    "Type": "Pyroclastic cones",
+    "Status": "Tephrochronology",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "f714d051-9473-2e82-5b6e-2191059829f5"
+  },
+  {
+    "VolcanoName": "Ceboruco",
+    "Country": "Mexico",
+    "Region": "Mexico",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -104.508,
+        21.125
+      ]
+    },
+    "Elevation": 2280,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1800-1899, inclusive",
+    "id": "557b64e4-fab4-9671-8f32-a6cd9572c1d0"
+  },
+  {
+    "VolcanoName": "Cendres, Ile des",
+    "Country": "Vietnam",
+    "Region": "SE Asia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        109.014,
+        10.158
+      ]
+    },
+    "Elevation": -20,
+    "Type": "Submarine volcanoes",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "bdf9891e-51cb-9c50-25f4-a1539e0749dc"
+  },
+  {
+    "VolcanoName": "Central Island",
+    "Country": "Kenya",
+    "Region": "Africa-E",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        36.042,
+        3.5
+      ]
+    },
+    "Elevation": 550,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "4f46fb01-4707-9663-43c7-2263c1d01837"
+  },
+  {
+    "VolcanoName": "Cereme",
+    "Country": "Indonesia",
+    "Region": "Java",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        108.4,
+        -6.892
+      ]
+    },
+    "Elevation": 3078,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "f32ea845-504d-8d2f-6fd1-a2c2eb4226b4"
+  },
+  {
+    "VolcanoName": "Ch'uga-ryong",
+    "Country": "North Korea",
+    "Region": "Korea",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        127.33,
+        38.33
+      ]
+    },
+    "Elevation": 452,
+    "Type": "Shield volcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "dd0fe6e8-8905-9805-daf8-787b51ed5f34"
+  },
+  {
+    "VolcanoName": "Chacana",
+    "Country": "Ecuador",
+    "Region": "Ecuador",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -78.25,
+        -0.375
+      ]
+    },
+    "Elevation": 4643,
+    "Type": "Caldera",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1700-1799, inclusive",
+    "id": "da0e52c6-dc4a-9ead-b6de-b16cb3061f64"
+  },
+  {
+    "VolcanoName": "Chachani, Nevado",
+    "Country": "Peru",
+    "Region": "Peru",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -71.53,
+        -16.191
+      ]
+    },
+    "Elevation": 6057,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "db9571e6-21f3-8eba-ebaa-25e4c0d923a3"
+  },
+  {
+    "VolcanoName": "Chachani, Nevado",
+    "Country": "Peru",
+    "Region": "Peru",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -71.53,
+        -16.191
+      ]
+    },
+    "Elevation": 6057,
+    "Type": "Stratovolcano",
+    "Status": "Holocene?",
+    "LastKnownEruption": "Uncertain Holocene eruption",
+    "id": "dc58113b-e5ab-92f8-b817-6b827fe9ab39"
+  },
+  {
+    "VolcanoName": "Chagulak",
+    "Country": "United States",
+    "Region": "Aleutian Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -171.13,
+        52.57
+      ]
+    },
+    "Elevation": 1142,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "70206682-0382-77bd-0bca-a81dcd2c848c"
+  },
+  {
+    "VolcanoName": "Chaine des Puys",
+    "Country": "France",
+    "Region": "France",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        2.967,
+        45.775
+      ]
+    },
+    "Elevation": 1464,
+    "Type": "Cinder cone",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "a95511d1-d93c-b20f-b136-7a5ccb08fdf5"
+  },
+  {
+    "VolcanoName": "Chaiten",
+    "Country": "Chile",
+    "Region": "Chile-S",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.646,
+        -42.833
+      ]
+    },
+    "Elevation": 962,
+    "Type": "Caldera",
+    "Status": "Holocene",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "e763a69d-3288-81da-1e18-8a16378d70c0"
+  },
+  {
+    "VolcanoName": "Changbaishan",
+    "Country": "North Korea",
+    "Region": "China-E",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        128.08,
+        41.98
+      ]
+    },
+    "Elevation": 2744,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1700-1799, inclusive",
+    "id": "08bc1dbf-b7bd-7bae-2b86-146211219e12"
+  },
+  {
+    "VolcanoName": "Chapulul, Cerro",
+    "Country": "Chile",
+    "Region": "Chile-C",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -71.08,
+        -38.37
+      ]
+    },
+    "Elevation": 2143,
+    "Type": "Cinder cone",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "12a6eb40-91b5-2441-24f5-a39dab94b8a4"
+  },
+  {
+    "VolcanoName": "Cherny",
+    "Country": "Russia",
+    "Region": "Kamchatka",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        159.67,
+        56.82
+      ]
+    },
+    "Elevation": 1778,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "f5ffff0c-7fff-3cc0-8dfb-4a82787c2df5"
+  },
+  {
+    "VolcanoName": "Cherpuk Group",
+    "Country": "Russia",
+    "Region": "Kamchatka",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        157.467,
+        55.55
+      ]
+    },
+    "Elevation": 1868,
+    "Type": "Pyroclastic cones",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "562a648f-511a-34dd-1980-1f3ce46667c7"
+  },
+  {
+    "VolcanoName": "Chichinautzin",
+    "Country": "Mexico",
+    "Region": "Mexico",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -99.13,
+        19.08
+      ]
+    },
+    "Elevation": 3930,
+    "Type": "Volcanic field",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption from A.D. 1-1499, inclusive",
+    "id": "e07b8125-3937-b868-f788-47e5f62cffeb"
+  },
+  {
+    "VolcanoName": "Chichon, El",
+    "Country": "Mexico",
+    "Region": "Mexico",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -93.228,
+        17.36
+      ]
+    },
+    "Elevation": 1150,
+    "Type": "Tuff cone",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "faf487ff-cd10-5c3f-f32a-cab9e73aa688"
+  },
+  {
+    "VolcanoName": "Chiginagak",
+    "Country": "United States",
+    "Region": "Alaska Peninsula",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -157,
+        57.13
+      ]
+    },
+    "Elevation": 2075,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "06b2f7d5-dd13-1e06-b536-ca779a6b8d4c"
+  },
+  {
+    "VolcanoName": "Chikurachki",
+    "Country": "Russia",
+    "Region": "Kuril Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        155.458,
+        50.325
+      ]
+    },
+    "Elevation": 1816,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "d76d892c-1e9e-9dee-401e-1ef6162c48cd"
+  },
+  {
+    "VolcanoName": "Chiliques",
+    "Country": "Chile",
+    "Region": "Chile-N",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -67.7,
+        -23.583
+      ]
+    },
+    "Elevation": 5778,
+    "Type": "Stratovolcano",
+    "Status": "Holocene?",
+    "LastKnownEruption": "Uncertain Holocene eruption",
+    "id": "da4f8d3a-19c4-3ea0-1859-0cfdfc7d9ff1"
+  },
+  {
+    "VolcanoName": "Chiliques",
+    "Country": "Chile",
+    "Region": "Chile-N",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -67.7,
+        -23.58
+      ]
+    },
+    "Elevation": 5778,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "541df5a3-c230-4fa0-0624-623778995979"
+  },
+  {
+    "VolcanoName": "Chillan, Nevados de",
+    "Country": "Chile",
+    "Region": "Chile-C",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -71.377,
+        -36.863
+      ]
+    },
+    "Elevation": 3212,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "58516d2b-b633-73e4-d799-e8fcaed7513d"
+  },
+  {
+    "VolcanoName": "Chimborazo",
+    "Country": "Ecuador",
+    "Region": "Ecuador",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -78.815,
+        -1.464
+      ]
+    },
+    "Elevation": 6310,
+    "Type": "Stratovolcano",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption from A.D. 1-1499, inclusive",
+    "id": "a7f1a365-514d-8d45-bd8c-2b4fcf62fd72"
+  },
+  {
+    "VolcanoName": "Chinameca",
+    "Country": "El Salvador",
+    "Region": "El Salvador",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -88.32,
+        13.475
+      ]
+    },
+    "Elevation": 1228,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "a700fed8-b67e-c877-a04d-b47ceb9b2b2f"
+  },
+  {
+    "VolcanoName": "Chingo Volc Field",
+    "Country": "Guatemala",
+    "Region": "Guatemala",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -89.73,
+        14.12
+      ]
+    },
+    "Elevation": 1775,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "091ca4cb-c800-fd40-7f16-91e1e08103e9"
+  },
+  {
+    "VolcanoName": "Chiquimula Volc Field",
+    "Country": "Guatemala",
+    "Region": "Guatemala",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -89.55,
+        14.83
+      ]
+    },
+    "Elevation": 1192,
+    "Type": "Cinder cone",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "0e5e0b51-1fbb-2c34-0237-5d8afcc0d304"
+  },
+  {
+    "VolcanoName": "Chiracha",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        38.12,
+        6.65
+      ]
+    },
+    "Elevation": 1650,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "8eed8fae-72c9-b3ba-02b0-5b55bcc53014"
+  },
+  {
+    "VolcanoName": "Chirinkotan",
+    "Country": "Russia",
+    "Region": "Kuril Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        153.48,
+        48.98
+      ]
+    },
+    "Elevation": 724,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "ceb72742-a919-bd8a-cc94-fe0123e266c4"
+  },
+  {
+    "VolcanoName": "Chirip",
+    "Country": "Russia",
+    "Region": "Kuril Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        147.92,
+        45.38
+      ]
+    },
+    "Elevation": 1589,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1800-1899, inclusive",
+    "id": "f800dc7a-9cb7-fa79-888b-07e0292aaa28"
+  },
+  {
+    "VolcanoName": "Chirpoi",
+    "Country": "Russia",
+    "Region": "Kuril Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        150.875,
+        46.525
+      ]
+    },
+    "Elevation": 742,
+    "Type": "Caldera",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "232d8459-a5be-84c3-b482-8d71dcf7b3fa"
+  },
+  {
+    "VolcanoName": "Chokai",
+    "Country": "Japan",
+    "Region": "Honshu-Japan",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        140.03,
+        39.08
+      ]
+    },
+    "Elevation": 2237,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "2c41334c-8731-45d5-e464-28e7bc61b55d"
+  },
+  {
+    "VolcanoName": "Chyulu Hills",
+    "Country": "Kenya",
+    "Region": "Africa-E",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        37.88,
+        -2.68
+      ]
+    },
+    "Elevation": 2188,
+    "Type": "Volcanic field",
+    "Status": "Anthropology",
+    "LastKnownEruption": "LastKnownEruption from 1800-1899, inclusive",
+    "id": "4bea921a-04b0-19f9-afd3-303d3fbb31f8"
+  },
+  {
+    "VolcanoName": "Ciguatepe, Cerro El",
+    "Country": "Nicaragua",
+    "Region": "Nicaragua",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -86.142,
+        12.53
+      ]
+    },
+    "Elevation": 603,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "626c26a2-498b-df78-cb17-4df369de8611"
+  },
+  {
+    "VolcanoName": "Cinnamon Butte",
+    "Country": "United States",
+    "Region": "US-Oregon",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -122.108,
+        43.241
+      ]
+    },
+    "Elevation": 1956,
+    "Type": "Cinder cone",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "7c819d46-26cd-ede4-f3fe-343b59a3302b"
+  },
+  {
+    "VolcanoName": "Cinotepec, Cerro",
+    "Country": "El Salvador",
+    "Region": "El Salvador",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -89.25,
+        14.02
+      ]
+    },
+    "Elevation": 665,
+    "Type": "Volcanic field",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "d27d9f7d-cd57-dbeb-18ca-5aaee2950b5d"
+  },
+  {
+    "VolcanoName": "Clark",
+    "Country": "New Zealand",
+    "Region": "New Zealand",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        177.839,
+        -36.446
+      ]
+    },
+    "Elevation": -860,
+    "Type": "Submarine volcano",
+    "Status": "Fumarolic",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "704b8334-ad36-5fce-b1df-39e2b7be1986"
+  },
+  {
+    "VolcanoName": "Clear Lake",
+    "Country": "United States",
+    "Region": "US-California",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -122.77,
+        38.97
+      ]
+    },
+    "Elevation": 1439,
+    "Type": "Volcanic field",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "b822b690-d1f3-73a9-f6e1-fd55abfac4cf"
+  },
+  {
+    "VolcanoName": "Cleft Segment",
+    "Country": "Pacific Ocean",
+    "Region": "Pacific-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -130.3,
+        44.83
+      ]
+    },
+    "Elevation": -2140,
+    "Type": "Submarine volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "c95ebcae-2da2-26d3-2248-c5cc3f34c377"
+  },
+  {
+    "VolcanoName": "Cleveland",
+    "Country": "United States",
+    "Region": "Aleutian Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -169.95,
+        52.82
+      ]
+    },
+    "Elevation": 1730,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "7edb0cf1-eadb-b99d-69d1-aed972759b14"
+  },
+  {
+    "VolcanoName": "Coatepeque Caldera",
+    "Country": "El Salvador",
+    "Region": "El Salvador",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -89.55,
+        13.87
+      ]
+    },
+    "Elevation": 746,
+    "Type": "Caldera",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "dc28f7ae-08df-fb8e-a651-7249d448db54"
+  },
+  {
+    "VolcanoName": "Cochons, Ile Aux",
+    "Country": "Indian Ocean",
+    "Region": "Indian O-S",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        50.23,
+        -46.1
+      ]
+    },
+    "Elevation": 775,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "6749a10c-f15a-3c25-25f9-1f8daa7f604f"
+  },
+  {
+    "VolcanoName": "Cofre de Perote",
+    "Country": "Mexico",
+    "Region": "Mexico",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -97.15,
+        19.492
+      ]
+    },
+    "Elevation": 4282,
+    "Type": "Shield volcano",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption from A.D. 1-1499, inclusive",
+    "id": "69b2bc37-3731-f0ee-6877-259b8206fdbe"
+  },
+  {
+    "VolcanoName": "Colachi",
+    "Country": "Chile",
+    "Region": "Chile-N",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -67.65,
+        -23.23
+      ]
+    },
+    "Elevation": 5631,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "8252ac9f-f999-9dd0-6a1a-7b9c34361aed"
+  },
+  {
+    "VolcanoName": "Coleman Seamount",
+    "Country": "Solomon Is.",
+    "Region": "Solomon Is-SW Pacifi",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        157.17,
+        -8.83
+      ]
+    },
+    "Elevation": 0,
+    "Type": "Submarine volcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "b5c2a85d-1002-f685-4df0-548aa617ffb2"
+  },
+  {
+    "VolcanoName": "Colima",
+    "Country": "Mexico",
+    "Region": "Mexico",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -103.62,
+        19.514
+      ]
+    },
+    "Elevation": 3850,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "4bdc26cd-2851-fe01-c693-ab733429099a"
+  },
+  {
+    "VolcanoName": "Colluma, Cerro",
+    "Country": "Bolivia",
+    "Region": "Bolivia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -68.07,
+        -18.5
+      ]
+    },
+    "Elevation": 3876,
+    "Type": "Maar",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "0f25b67b-f3f4-ec66-7209-7101586e5417"
+  },
+  {
+    "VolcanoName": "Colo [Una Una]",
+    "Country": "Indonesia",
+    "Region": "Sulawesi-Indonesia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        121.608,
+        -0.17
+      ]
+    },
+    "Elevation": 507,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "5844e3bf-3f89-08ff-b6d2-a0042d4d65c8"
+  },
+  {
+    "VolcanoName": "Comondu-La Purisima",
+    "Country": "Mexico",
+    "Region": "Mexico",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -111.92,
+        26
+      ]
+    },
+    "Elevation": 780,
+    "Type": "Volcanic field",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "9b08586f-6dc3-a38a-7137-2133bf3d4aef"
+  },
+  {
+    "VolcanoName": "Concepcion",
+    "Country": "Nicaragua",
+    "Region": "Nicaragua",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -85.622,
+        11.538
+      ]
+    },
+    "Elevation": 1700,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "5dc96725-c25b-5f32-a527-d9aa16692ebb"
+  },
+  {
+    "VolcanoName": "Conchagua",
+    "Country": "El Salvador",
+    "Region": "El Salvador",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -87.853,
+        13.277
+      ]
+    },
+    "Elevation": 1250,
+    "Type": "Stratovolcano",
+    "Status": "Uncertain",
+    "LastKnownEruption": "Unknown",
+    "id": "fd33fa4f-3551-34dc-9ec9-76f81e9f511a"
+  },
+  {
+    "VolcanoName": "Conchaguita",
+    "Country": "El Salvador",
+    "Region": "El Salvador",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -87.765,
+        13.22
+      ]
+    },
+    "Elevation": 550,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1800-1899, inclusive",
+    "id": "ee900092-64b1-b4b9-afc3-0203e85aa10e"
+  },
+  {
+    "VolcanoName": "Cook, Isla",
+    "Country": "Chile",
+    "Region": "Chile-S",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -70.27,
+        -54.95
+      ]
+    },
+    "Elevation": 150,
+    "Type": "Lava dome",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "aa9b43f8-113b-bf0d-3995-28ee5a6e30b3"
+  },
+  {
+    "VolcanoName": "Copahue",
+    "Country": "Chile",
+    "Region": "Chile-C",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -71.17,
+        -37.85
+      ]
+    },
+    "Elevation": 2965,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "f62290a2-1a45-7368-1e46-03d7df65c1bc"
+  },
+  {
+    "VolcanoName": "Copiapo",
+    "Country": "Chile",
+    "Region": "Chile-N",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -69.13,
+        -27.3
+      ]
+    },
+    "Elevation": 6052,
+    "Type": "Stratovolcano",
+    "Status": "Uncertain",
+    "LastKnownEruption": "Unknown",
+    "id": "f8f2463d-b186-2003-ddfb-29fd44d36353"
+  },
+  {
+    "VolcanoName": "Corbetti Caldera",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        38.43,
+        7.18
+      ]
+    },
+    "Elevation": 2320,
+    "Type": "Caldera",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "16a08449-6923-9315-8e86-d09189403e9c"
+  },
+  {
+    "VolcanoName": "Corcovado",
+    "Country": "Chile",
+    "Region": "Chile-S",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.8,
+        -43.18
+      ]
+    },
+    "Elevation": 2300,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1800-1899, inclusive",
+    "id": "84eab039-e7d2-3518-a667-8461a1a270e0"
+  },
+  {
+    "VolcanoName": "Cordon Chalviri",
+    "Country": "Chile",
+    "Region": "Chile-N",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -67.62,
+        -23.85
+      ]
+    },
+    "Elevation": 5623,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "a90e1e20-faab-2b41-9d86-d05a3bfcc276"
+  },
+  {
+    "VolcanoName": "Cordon de Puntas Negras",
+    "Country": "Chile",
+    "Region": "Chile-N",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -67.53,
+        -23.75
+      ]
+    },
+    "Elevation": 5852,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "59806d6d-30a9-dd8f-b74d-0051a05100a1"
+  },
+  {
+    "VolcanoName": "Cordon del Azufre",
+    "Country": "Argentina",
+    "Region": "Chile-N",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -68.52,
+        -25.33
+      ]
+    },
+    "Elevation": 5463,
+    "Type": "Complex volcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "5d7999bc-861f-8dae-7621-129e5c2ea4bb"
+  },
+  {
+    "VolcanoName": "Coronado",
+    "Country": "Mexico",
+    "Region": "Mexico",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -113.513,
+        29.08
+      ]
+    },
+    "Elevation": 440,
+    "Type": "Stratovolcano",
+    "Status": "Fumarolic",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "68348146-0881-695e-16ce-4cba497357c8"
+  },
+  {
+    "VolcanoName": "Coropuna",
+    "Country": "Peru",
+    "Region": "Peru",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.65,
+        -15.52
+      ]
+    },
+    "Elevation": 6377,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "3a750ac6-5b83-bb49-1be3-c9d49c94b511"
+  },
+  {
+    "VolcanoName": "Corvo",
+    "Country": "Portugal",
+    "Region": "Azores",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -31.07,
+        39.67
+      ]
+    },
+    "Elevation": 715,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "c572a259-cb9a-1c35-6595-06f53c2c7048"
+  },
+  {
+    "VolcanoName": "Cosiguina",
+    "Country": "Nicaragua",
+    "Region": "Nicaragua",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -87.57,
+        12.98
+      ]
+    },
+    "Elevation": 872,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1800-1899, inclusive",
+    "id": "1f6efe76-57c1-8204-7e8b-55ad4944c559"
+  },
+  {
+    "VolcanoName": "Coso Volc Field",
+    "Country": "United States",
+    "Region": "US-California",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -117.82,
+        36.03
+      ]
+    },
+    "Elevation": 2400,
+    "Type": "Lava dome",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "dc897081-5572-0b2b-f4dc-64f394ef9183"
+  },
+  {
+    "VolcanoName": "Cotopaxi",
+    "Country": "Ecuador",
+    "Region": "Ecuador",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -78.436,
+        -0.677
+      ]
+    },
+    "Elevation": 5911,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "b887ece8-a2a5-02ba-f63d-d854809aed66"
+  },
+  {
+    "VolcanoName": "Crater Basalt Volc Field",
+    "Country": "Argentina",
+    "Region": "Chile-S/Argentina",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -70.183,
+        -42.017
+      ]
+    },
+    "Elevation": 1359,
+    "Type": "Cinder cones",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "99768c38-40f1-bf2d-e376-4c8ef660347d"
+  },
+  {
+    "VolcanoName": "Crater Lake",
+    "Country": "United States",
+    "Region": "US-Oregon",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -122.12,
+        42.93
+      ]
+    },
+    "Elevation": 2487,
+    "Type": "Caldera",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "338db807-b171-b77d-89f4-029cbd0f9aba"
+  },
+  {
+    "VolcanoName": "Crater Mountain",
+    "Country": "Papua New Guinea",
+    "Region": "New Guinea",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        145.08,
+        -6.58
+      ]
+    },
+    "Elevation": 3233,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "12990220-2a1f-2644-b496-ac7eb14583e9"
+  },
+  {
+    "VolcanoName": "Craters of the Moon",
+    "Country": "United States",
+    "Region": "US-Idaho",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -113.5,
+        43.42
+      ]
+    },
+    "Elevation": 2005,
+    "Type": "Cinder cone",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "6065fc46-753e-b1d9-069d-e67578e1416b"
+  },
+  {
+    "VolcanoName": "Crow Lagoon",
+    "Country": "Canada",
+    "Region": "Canada",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -130.23,
+        54.7
+      ]
+    },
+    "Elevation": 335,
+    "Type": "Pyroclastic cone",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "8f81b3d6-cf7f-4e5f-74ab-a53441148ecb"
+  },
+  {
+    "VolcanoName": "Cu-Lao Re Group",
+    "Country": "Vietnam",
+    "Region": "SE Asia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        109.12,
+        15.38
+      ]
+    },
+    "Elevation": 181,
+    "Type": "Volcanic field",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "b34fc294-efb7-4c73-6e8d-f70b4e2b49bd"
+  },
+  {
+    "VolcanoName": "Cuicocha",
+    "Country": "Ecuador",
+    "Region": "Ecuador",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -78.364,
+        0.308
+      ]
+    },
+    "Elevation": 3246,
+    "Type": "Caldera",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "a3e28893-7f55-1068-06d3-f0bc6c98b499"
+  },
+  {
+    "VolcanoName": "Cuilapa-Barbarena",
+    "Country": "Guatemala",
+    "Region": "Guatemala",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -90.4,
+        14.33
+      ]
+    },
+    "Elevation": 1454,
+    "Type": "Volcanic field",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "df259dfc-0a11-e8bb-376f-3d15a6228608"
+  },
+  {
+    "VolcanoName": "Cuilapa-Barbarena",
+    "Country": "Guatemala",
+    "Region": "Guatemala",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -90.4,
+        14.333
+      ]
+    },
+    "Elevation": 1454,
+    "Type": "Volcanic field",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "98395c77-d55f-71d0-c785-e25f27f9f082"
+  },
+  {
+    "VolcanoName": "Cumbal",
+    "Country": "Colombia",
+    "Region": "Colombia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -77.88,
+        0.98
+      ]
+    },
+    "Elevation": 4764,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "25c61320-fea5-5cce-ddcf-a3194745c502"
+  },
+  {
+    "VolcanoName": "Cumbres, Las",
+    "Country": "Mexico",
+    "Region": "Mexico",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -97.27,
+        19.15
+      ]
+    },
+    "Elevation": 3940,
+    "Type": "Stratovolcano",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "ade46b84-5df1-83c5-5b71-340d99d1ae0b"
+  },
+  {
+    "VolcanoName": "Curacoa",
+    "Country": "Tonga",
+    "Region": "Tonga-SW Pacific",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -173.67,
+        -15.62
+      ]
+    },
+    "Elevation": -33,
+    "Type": "Submarine volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "5f7c20d3-1a24-a2ce-84e9-58a31e7251da"
+  },
+  {
+    "VolcanoName": "Curacoa",
+    "Country": "Tonga",
+    "Region": "Tonga-SW Pacific",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -173.667,
+        -15.617
+      ]
+    },
+    "Elevation": -33,
+    "Type": "Submarine volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "cf0c9679-5c02-ece5-fcd3-2266446e1312"
+  },
+  {
+    "VolcanoName": "Curtis Island",
+    "Country": "New Zealand",
+    "Region": "Kermadec Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -178.561,
+        -30.542
+      ]
+    },
+    "Elevation": 137,
+    "Type": "Submarine volcano",
+    "Status": "Uncertain",
+    "LastKnownEruption": "Unknown",
+    "id": "345441b4-1d45-75b8-643c-dd73960d3526"
+  },
+  {
+    "VolcanoName": "C?ndor, Cerro el",
+    "Country": "Argentina",
+    "Region": "Argentina",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -68.35,
+        -26.617
+      ]
+    },
+    "Elevation": 6532,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "4fa377ed-0168-6773-34ad-1032b011edad"
+  },
+  {
+    "VolcanoName": "Dabbahu",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        40.48,
+        12.6
+      ]
+    },
+    "Elevation": 1442,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "9d4c2dc5-97ec-bbf1-d087-3e3571bc9bfd"
+  },
+  {
+    "VolcanoName": "Dabbayra",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        40.07,
+        12.38
+      ]
+    },
+    "Elevation": 1302,
+    "Type": "Shield volcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "190bd2c6-53d7-8f26-3b91-c26cba804aa0"
+  },
+  {
+    "VolcanoName": "Dacht-I-Navar Group",
+    "Country": "Afghanistan",
+    "Region": "Afghanistan",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        67.92,
+        33.95
+      ]
+    },
+    "Elevation": 3800,
+    "Type": "Lava dome",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "e512e438-fb7c-da86-10f3-75abdad21d34"
+  },
+  {
+    "VolcanoName": "Daikoku",
+    "Country": "Japan",
+    "Region": "Volcano Is-Japan",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        144.194,
+        21.324
+      ]
+    },
+    "Elevation": -323,
+    "Type": "Submarine volcano",
+    "Status": "Fumarolic",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "c283011c-b428-0e33-f477-4825239d8825"
+  },
+  {
+    "VolcanoName": "Daisetsu",
+    "Country": "Japan",
+    "Region": "Hokkaido-Japan",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        142.88,
+        43.68
+      ]
+    },
+    "Elevation": 2290,
+    "Type": "Stratovolcano",
+    "Status": "Tephrochronology",
+    "LastKnownEruption": "LastKnownEruption from A.D. 1-1499, inclusive",
+    "id": "d648d976-abe3-6b03-c14d-fbde9cad442a"
+  },
+  {
+    "VolcanoName": "Dakataua",
+    "Country": "Papua New Guinea",
+    "Region": "New Britain-SW Pac",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        150.108,
+        -5.056
+      ]
+    },
+    "Elevation": 400,
+    "Type": "Caldera",
+    "Status": "Anthropology",
+    "LastKnownEruption": "LastKnownEruption from 1800-1899, inclusive",
+    "id": "b7041333-6c52-cfc0-5045-511abf9c0392"
+  },
+  {
+    "VolcanoName": "Dalaffilla",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        40.55,
+        13.792
+      ]
+    },
+    "Elevation": 613,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "fa38e679-4afc-d109-a0e9-62794875a87d"
+  },
+  {
+    "VolcanoName": "Dallol",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        40.3,
+        14.242
+      ]
+    },
+    "Elevation": -48,
+    "Type": "Explosion crater",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "68e2ea13-88ad-48ec-a672-655c65a8a4ef"
+  },
+  {
+    "VolcanoName": "Dama Ali",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        41.63,
+        11.28
+      ]
+    },
+    "Elevation": 1068,
+    "Type": "Shield volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1500-1699, inclusive",
+    "id": "668076ce-754d-3e17-3d69-28cd8cb70b31"
+  },
+  {
+    "VolcanoName": "Damavand",
+    "Country": "Iran",
+    "Region": "Iran",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        52.109,
+        35.951
+      ]
+    },
+    "Elevation": 5670,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "6d59497b-abeb-3c84-48c2-b5d7486d908d"
+  },
+  {
+    "VolcanoName": "Dana",
+    "Country": "United States",
+    "Region": "Alaska Peninsula",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -161.22,
+        55.62
+      ]
+    },
+    "Elevation": 1354,
+    "Type": "Stratovolcano",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "ad35f3a0-a590-6cdc-5456-32e8f7392965"
+  },
+  {
+    "VolcanoName": "Danau Complex",
+    "Country": "Indonesia",
+    "Region": "Java",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        105.97,
+        -6.2
+      ]
+    },
+    "Elevation": 1778,
+    "Type": "Caldera",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "9f3c23d7-286e-782c-3dc7-db65ecabd4ea"
+  },
+  {
+    "VolcanoName": "Dar-Alages",
+    "Country": "Armenia",
+    "Region": "Armenia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        45.542,
+        39.7
+      ]
+    },
+    "Elevation": 3329,
+    "Type": "Unknown",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "fbaa9a58-adbd-6251-e363-7dde6463aaba"
+  },
+  {
+    "VolcanoName": "Dariganga Volc Field",
+    "Country": "Mongolia",
+    "Region": "Mongolia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        114,
+        45.33
+      ]
+    },
+    "Elevation": 1778,
+    "Type": "Cinder cone",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "57b4edab-357e-5063-f0cd-27ea822dd61e"
+  },
+  {
+    "VolcanoName": "Darwin, Volcan",
+    "Country": "Ecuador",
+    "Region": "Galapagos",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -91.28,
+        -0.18
+      ]
+    },
+    "Elevation": 1330,
+    "Type": "Shield volcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "LastKnownEruption from 1800-1899, inclusive",
+    "id": "34a6d33c-1a19-7b1d-a1d8-ddd87e338afd"
+  },
+  {
+    "VolcanoName": "Daun, Bukit",
+    "Country": "Indonesia",
+    "Region": "Sumatra",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        102.37,
+        -3.38
+      ]
+    },
+    "Elevation": 2467,
+    "Type": "Stratovolcano",
+    "Status": "Fumarolic",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "b0ed04a6-6840-71ac-011b-bf5315e27299"
+  },
+  {
+    "VolcanoName": "Davidof",
+    "Country": "United States",
+    "Region": "Aleutian Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        178.33,
+        51.97
+      ]
+    },
+    "Elevation": 328,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "632c46df-6d75-0b30-9052-8756c3869e17"
+  },
+  {
+    "VolcanoName": "Davis Lake",
+    "Country": "United States",
+    "Region": "US-Oregon",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -121.82,
+        43.57
+      ]
+    },
+    "Elevation": 2163,
+    "Type": "Volcanic field",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "6465f5ca-141b-8be3-923c-f9275a523be1"
+  },
+  {
+    "VolcanoName": "Dawson Strait Group",
+    "Country": "Papua New Guinea",
+    "Region": "D'Entrecasteaux Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        150.88,
+        -9.62
+      ]
+    },
+    "Elevation": 500,
+    "Type": "Volcanic field",
+    "Status": "Hydration Rind",
+    "LastKnownEruption": "LastKnownEruption from A.D. 1-1499, inclusive",
+    "id": "7ba0112a-5e6f-39a3-bd61-e53a331a9b69"
+  },
+  {
+    "VolcanoName": "Deception Island",
+    "Country": "Antarctica",
+    "Region": "Antarctica",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -60.65,
+        -62.97
+      ]
+    },
+    "Elevation": 576,
+    "Type": "Caldera",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "263dc68e-7962-9601-44c8-21524f723504"
+  },
+  {
+    "VolcanoName": "Demon",
+    "Country": "Russia",
+    "Region": "Kuril Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        148.85,
+        45.5
+      ]
+    },
+    "Elevation": 1205,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "d0f0e1a0-aa39-b253-ba48-02f73dfb8fa0"
+  },
+  {
+    "VolcanoName": "Dempo",
+    "Country": "Indonesia",
+    "Region": "Sumatra",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        103.13,
+        -4.03
+      ]
+    },
+    "Elevation": 3173,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "b913750f-e245-38f9-8815-1064d7f0a99e"
+  },
+  {
+    "VolcanoName": "Denison",
+    "Country": "United States",
+    "Region": "Alaska Peninsula",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -154.45,
+        58.42
+      ]
+    },
+    "Elevation": 2318,
+    "Type": "Stratovolcano",
+    "Status": "Uncertain",
+    "LastKnownEruption": "Unknown",
+    "id": "2a0646aa-8f53-3037-c348-87e36e45343c"
+  },
+  {
+    "VolcanoName": "Descabezado Grande",
+    "Country": "Chile",
+    "Region": "Chile-C",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -70.75,
+        -35.58
+      ]
+    },
+    "Elevation": 3953,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "4684f729-e53e-bcd7-adc3-d0d3bd63bee5"
+  },
+  {
+    "VolcanoName": "Devils Garden",
+    "Country": "United States",
+    "Region": "US-Oregon",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -120.861,
+        43.512
+      ]
+    },
+    "Elevation": 1698,
+    "Type": "Volcanic field",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "d2226a28-ab3b-0376-d5f4-dd2e70cb5657"
+  },
+  {
+    "VolcanoName": "Dgida Basin",
+    "Country": "Russia",
+    "Region": "Russia-SE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        103.25,
+        50.52
+      ]
+    },
+    "Elevation": 1500,
+    "Type": "Cinder cone",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "21fac9c9-5d82-eafe-3d6f-68f3ce68ed18"
+  },
+  {
+    "VolcanoName": "Dhamar, Harras of",
+    "Country": "Yemen",
+    "Region": "Arabia-S",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        44.67,
+        14.57
+      ]
+    },
+    "Elevation": 3500,
+    "Type": "Volcanic field",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "b151cb59-9ecc-16ed-a329-49eaa8bed139"
+  },
+  {
+    "VolcanoName": "Diable, Morne Au",
+    "Country": "Dominica",
+    "Region": "W Indies",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -61.45,
+        15.62
+      ]
+    },
+    "Elevation": 861,
+    "Type": "Stratovolcano",
+    "Status": "Fumarolic",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "731959cc-805a-f977-9d7a-5b8fb9b3eb6c"
+  },
+  {
+    "VolcanoName": "Diablotins, Morne",
+    "Country": "Dominica",
+    "Region": "W Indies",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -61.42,
+        15.5
+      ]
+    },
+    "Elevation": 1430,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "ed01fa85-835d-11a5-3e22-aa9192358c13"
+  },
+  {
+    "VolcanoName": "Diamond Craters",
+    "Country": "United States",
+    "Region": "US-Oregon",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -118.75,
+        43.1
+      ]
+    },
+    "Elevation": 1435,
+    "Type": "Volcanic field",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "eba01b6b-b5fc-edcd-2a71-54291f7a283e"
+  },
+  {
+    "VolcanoName": "Didicas",
+    "Country": "Philippines",
+    "Region": "Luzon-N of",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        122.202,
+        19.077
+      ]
+    },
+    "Elevation": 244,
+    "Type": "Compound volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "5ad80a5d-c3bb-bccb-7cf3-8a0aa721e982"
+  },
+  {
+    "VolcanoName": "Dieng Volc Complex",
+    "Country": "Indonesia",
+    "Region": "Java",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        109.92,
+        -7.2
+      ]
+    },
+    "Elevation": 2565,
+    "Type": "Complex volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "3d11b24d-99da-3351-2912-0a568f47903d"
+  },
+  {
+    "VolcanoName": "Diky Greben",
+    "Country": "Russia",
+    "Region": "Kamchatka",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        157,
+        51.43
+      ]
+    },
+    "Elevation": 1070,
+    "Type": "Lava dome",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption from A.D. 1-1499, inclusive",
+    "id": "262e5fd8-a3cf-d407-0f5a-5b93d194c587"
+  },
+  {
+    "VolcanoName": "Dofen",
+    "Country": "Ethiopia",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        40.13,
+        9.35
+      ]
+    },
+    "Elevation": 1151,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "ee4d319e-4ab1-a593-1763-8ad576534acd"
+  },
+  {
+    "VolcanoName": "Doma Peaks",
+    "Country": "Papua New Guinea",
+    "Region": "New Guinea",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        143.15,
+        -5.9
+      ]
+    },
+    "Elevation": 3568,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "e89d3be4-2f16-5260-c5fb-d43264c9c69b"
+  },
+  {
+    "VolcanoName": "Domuyo",
+    "Country": "Argentina",
+    "Region": "Argentina",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -70.42,
+        -36.63
+      ]
+    },
+    "Elevation": 4709,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "e3e12b2b-98ea-b1d2-e129-28712fb8e2a0"
+  },
+  {
+    "VolcanoName": "Don Joao de Castro Bank",
+    "Country": "Portugal",
+    "Region": "Azores",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -26.63,
+        38.23
+      ]
+    },
+    "Elevation": -14,
+    "Type": "Submarine volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1700-1799, inclusive",
+    "id": "c12d9001-5c74-e6f4-7ad1-c4e2946a282a"
+  },
+  {
+    "VolcanoName": "Dona Juana",
+    "Country": "Colombia",
+    "Region": "Colombia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -76.92,
+        1.47
+      ]
+    },
+    "Elevation": 4150,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1900-1963, inclusive",
+    "id": "5363bde0-0262-700d-dbad-f9baee8daacb"
+  },
+  {
+    "VolcanoName": "Dotsero",
+    "Country": "United States",
+    "Region": "US-Colorado",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -107.03,
+        39.65
+      ]
+    },
+    "Elevation": 2230,
+    "Type": "Maar",
+    "Status": "Radiocarbon",
+    "LastKnownEruption": "LastKnownEruption B.C. (Holocene)",
+    "id": "474998d5-16ed-552f-75f9-9b63f9a58b37"
+  },
+  {
+    "VolcanoName": "Douglas",
+    "Country": "United States",
+    "Region": "Alaska Peninsula",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -153.55,
+        58.87
+      ]
+    },
+    "Elevation": 2140,
+    "Type": "Stratovolcano",
+    "Status": "Fumarolic",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "0089e296-5303-2b40-2915-895cd0d6ebaf"
+  },
+  {
+    "VolcanoName": "Doyo Seamount",
+    "Country": "Japan",
+    "Region": "Izu Is-Japan",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        140.8,
+        27.683
+      ]
+    },
+    "Elevation": -860,
+    "Type": "Submarine volcano",
+    "Status": "Fumarolic",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "26144be2-1dcb-a9f0-72e8-fcd679653730"
+  },
+  {
+    "VolcanoName": "Dubbi",
+    "Country": "Eritrea",
+    "Region": "Africa-NE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        41.808,
+        13.58
+      ]
+    },
+    "Elevation": 1625,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1800-1899, inclusive",
+    "id": "2a0aac33-e395-b44e-8fa8-b436bb1f803d"
+  },
+  {
+    "VolcanoName": "Dukono",
+    "Country": "Indonesia",
+    "Region": "Halmahera-Indonesia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        127.88,
+        1.68
+      ]
+    },
+    "Elevation": 1185,
+    "Type": "Complex volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "dd524940-f424-4e02-e7cc-9c70cd563279"
+  },
+  {
+    "VolcanoName": "Duncan Canal",
+    "Country": "United States",
+    "Region": "Alaska-SE",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -133.1,
+        56.5
+      ]
+    },
+    "Elevation": 15,
+    "Type": "Unknown",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "ec80601c-5eba-d848-05af-93192c20d049"
+  },
+  {
+    "VolcanoName": "Durango Volc Field",
+    "Country": "Mexico",
+    "Region": "Mexico",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -104.45,
+        24.15
+      ]
+    },
+    "Elevation": 2075,
+    "Type": "Cinder cone",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "95a5fd27-2751-48f0-ed22-34adc7b38d96"
+  },
+  {
+    "VolcanoName": "Dutton",
+    "Country": "United States",
+    "Region": "Alaska Peninsula",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -162.27,
+        55.18
+      ]
+    },
+    "Elevation": 1506,
+    "Type": "Stratovolcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "41c40e37-f85e-6e34-0d2b-69cfe44e78a0"
+  },
+  {
+    "VolcanoName": "Dzenzursky",
+    "Country": "Russia",
+    "Region": "Kamchatka",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        158.922,
+        53.637
+      ]
+    },
+    "Elevation": 2155,
+    "Type": "Compound volcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "570a6486-56c0-e5c9-525a-80236cd2fc91"
+  },
+  {
+    "VolcanoName": "E-san",
+    "Country": "Japan",
+    "Region": "Hokkaido-Japan",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        141.17,
+        41.8
+      ]
+    },
+    "Elevation": 618,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption from 1800-1899, inclusive",
+    "id": "8f0a02ba-ae38-6d44-0734-42212f1d582e"
+  },
+  {
+    "VolcanoName": "Eagle Lake Field",
+    "Country": "United States",
+    "Region": "US-California",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -120.83,
+        40.63
+      ]
+    },
+    "Elevation": 1652,
+    "Type": "Fissure vent",
+    "Status": "Holocene",
+    "LastKnownEruption": "Unknown",
+    "id": "44cd5f5d-4933-a728-ae77-6de7e0c0c693"
+  },
+  {
+    "VolcanoName": "Easter Island",
+    "Country": "Chile",
+    "Region": "Chile-Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -109.383,
+        -27.15
+      ]
+    },
+    "Elevation": 511,
+    "Type": "Shield volcanoes",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "7a62e340-734d-623c-cd3c-ce8590f1e2a1"
+  },
+  {
+    "VolcanoName": "Eastern Gemini Seamount",
+    "Country": "Pacific Ocean",
+    "Region": "SW Pacific",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        170.28,
+        -20.98
+      ]
+    },
+    "Elevation": -80,
+    "Type": "Submarine volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "a364deeb-a977-7331-615a-a1c6d61f58f1"
+  },
+  {
+    "VolcanoName": "Ebeko",
+    "Country": "Russia",
+    "Region": "Kuril Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        156.02,
+        50.68
+      ]
+    },
+    "Elevation": 1156,
+    "Type": "Somma volcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "1970b607-193b-e6f4-f147-66689a2a5578"
+  },
+  {
+    "VolcanoName": "Ebulobo",
+    "Country": "Indonesia",
+    "Region": "Lesser Sunda Is",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        121.18,
+        -8.808
+      ]
+    },
+    "Elevation": 2124,
+    "Type": "Stratovolcano",
+    "Status": "Historical",
+    "LastKnownEruption": "LastKnownEruption in 1964 or later",
+    "id": "64b5e159-b88a-6e73-8890-0ae905bd4c86"
+  },
+  {
+    "VolcanoName": "Eburru, Ol Doinyo",
+    "Country": "Kenya",
+    "Region": "Africa-E",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        36.23,
+        -0.63
+      ]
+    },
+    "Elevation": 2856,
+    "Type": "Complex volcano",
+    "Status": "Holocene",
+    "LastKnownEruption": "Undated, but probable Holocene eruption",
+    "id": "65111700-37e2-4042-0842-91e90fa0cfac"
+  }, 
+  {
+    "id": "washington-polygon",
+    "country": "United States of America",
+    "stateCode": "WA",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -124.63,
+            48.36
+          ],
+          [
+            -123.87,
+            46.14
+          ],
+          [
+            -122.23,
+            45.54
+          ],
+          [
+            -119.17,
+            45.95
+          ],
+          [
+            -116.92,
+            45.96
+          ],
+          [
+            -116.99,
+            49
+          ],
+          [
+            -123.05,
+            49.02
+          ],
+          [
+            -123.15,
+            48.31
+          ],
+          [
+            -124.63,
+            48.36
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "india-polygon",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            77.8374507994746,
+            35.4940095077878
+          ],
+          [
+            78.9122689147132,
+            34.3219363469758
+          ],
+          [
+            78.8110864602857,
+            33.5061980250324
+          ],
+          [
+            79.2088916360686,
+            32.9943946396137
+          ],
+          [
+            79.1761287779955,
+            32.4837798121377
+          ],
+          [
+            78.458446486326,
+            32.6181643743127
+          ],
+          [
+            78.738894484374,
+            31.5159060735271
+          ],
+          [
+            79.7213668151071,
+            30.8827147486547
+          ],
+          [
+            81.1112561380293,
+            30.1834809433134
+          ],
+          [
+            80.4767212259174,
+            29.7298652206553
+          ],
+          [
+            80.0884245136763,
+            28.7944701197401
+          ],
+          [
+            81.057202589852,
+            28.416095282499
+          ],
+          [
+            81.999987420585,
+            27.92547923432
+          ],
+          [
+            83.3042488951995,
+            27.3645057235756
+          ],
+          [
+            84.6750179381738,
+            27.2349012313875
+          ],
+          [
+            85.2517785989834,
+            26.7261984319063
+          ],
+          [
+            86.0243929381792,
+            26.6309846054086
+          ],
+          [
+            87.2274719583663,
+            26.3978980575561
+          ],
+          [
+            88.0602376647498,
+            26.4146153834025
+          ],
+          [
+            88.1748043151409,
+            26.810405178326
+          ],
+          [
+            88.0431327656612,
+            27.4458185897868
+          ],
+          [
+            88.1204407083699,
+            27.8765416529396
+          ],
+          [
+            88.7303259622786,
+            28.0868647323675
+          ],
+          [
+            88.8142484883206,
+            27.2993159042394
+          ],
+          [
+            88.8356425312894,
+            27.0989663762438
+          ],
+          [
+            89.7445276224389,
+            26.71940298106
+          ],
+          [
+            90.3732747741341,
+            26.8757241887429
+          ],
+          [
+            91.2175126484864,
+            26.808648179628
+          ],
+          [
+            92.0334835143751,
+            26.8383104517636
+          ],
+          [
+            92.1037117858597,
+            27.4526140406332
+          ],
+          [
+            91.6966565286967,
+            27.7717418482517
+          ],
+          [
+            92.5031189310436,
+            27.8968763290464
+          ],
+          [
+            93.4133476094327,
+            28.6406293808072
+          ],
+          [
+            94.5659904317029,
+            29.27743805594
+          ],
+          [
+            95.4048022806646,
+            29.0317166203921
+          ],
+          [
+            96.117678664131,
+            29.4528020289225
+          ],
+          [
+            96.5865906107475,
+            28.8309795191543
+          ],
+          [
+            96.2488334492878,
+            28.4110309921344
+          ],
+          [
+            97.32711388549,
+            28.2615827499463
+          ],
+          [
+            97.4025614766361,
+            27.8825361190854
+          ],
+          [
+            97.0519885599681,
+            27.6990589462332
+          ],
+          [
+            97.1339990580153,
+            27.08377350515
+          ],
+          [
+            96.419365675851,
+            27.2645893417392
+          ],
+          [
+            95.124767694075,
+            26.5735720891323
+          ],
+          [
+            95.1551534362626,
+            26.0013072779321
+          ],
+          [
+            94.6032491393854,
+            25.1624954289704
+          ],
+          [
+            94.5526579121716,
+            24.6752383488903
+          ],
+          [
+            94.1067419779251,
+            23.8507408716735
+          ],
+          [
+            93.3251876159428,
+            24.0785564234322
+          ],
+          [
+            93.2863269388593,
+            23.043658352139
+          ],
+          [
+            93.0602942240146,
+            22.7031106633356
+          ],
+          [
+            93.1661275573484,
+            22.2784595809771
+          ],
+          [
+            92.6727209818256,
+            22.0412389185413
+          ],
+          [
+            92.1460347839068,
+            23.6274986841726
+          ],
+          [
+            91.8699276061713,
+            23.6243464218028
+          ],
+          [
+            91.7064750508321,
+            22.9852639836492
+          ],
+          [
+            91.1589632506997,
+            23.5035269231044
+          ],
+          [
+            91.4677299336437,
+            24.0726394719348
+          ],
+          [
+            91.9150928079944,
+            24.1304137232371
+          ],
+          [
+            92.3762016133348,
+            24.976692816665
+          ],
+          [
+            91.7995959818221,
+            25.1474317489573
+          ],
+          [
+            90.8722107279121,
+            25.1326006128895
+          ],
+          [
+            89.9206925801219,
+            25.2697498641922
+          ],
+          [
+            89.8324809101996,
+            25.9650820988955
+          ],
+          [
+            89.3550940286873,
+            26.0144072535181
+          ],
+          [
+            88.5630493509498,
+            26.4465255803427
+          ],
+          [
+            88.2097892598025,
+            25.7680657007827
+          ],
+          [
+            88.9315539896231,
+            25.2386923283848
+          ],
+          [
+            88.306372511756,
+            24.8660794133442
+          ],
+          [
+            88.0844222350624,
+            24.5016572128219
+          ],
+          [
+            88.6999402200909,
+            24.2337149113886
+          ],
+          [
+            88.5297697285538,
+            23.6311418726492
+          ],
+          [
+            88.8763118835031,
+            22.8791464299378
+          ],
+          [
+            89.0319612975662,
+            22.055708319583
+          ],
+          [
+            88.8887659036854,
+            21.6905884872247
+          ],
+          [
+            88.2084973489952,
+            21.7031716984878
+          ],
+          [
+            86.9757043802403,
+            21.4955616317552
+          ],
+          [
+            87.0331685729489,
+            20.7433078068824
+          ],
+          [
+            86.4993510273738,
+            20.1516384953566
+          ],
+          [
+            85.0602657409097,
+            19.4785788029711
+          ],
+          [
+            83.9410058939,
+            18.3020097925497
+          ],
+          [
+            83.1892171569178,
+            17.671221421779
+          ],
+          [
+            82.1927921894659,
+            17.0166360539378
+          ],
+          [
+            82.1912418964972,
+            16.5566641301078
+          ],
+          [
+            81.6927193541775,
+            16.3102192245079
+          ],
+          [
+            80.7919991393301,
+            15.9519723576445
+          ],
+          [
+            80.3248958678439,
+            15.8991848820584
+          ],
+          [
+            80.0250692076864,
+            15.1364149032141
+          ],
+          [
+            80.2332735533904,
+            13.83577077886
+          ],
+          [
+            80.2862935729219,
+            13.0062606877108
+          ],
+          [
+            79.8625468281285,
+            12.0562153182409
+          ],
+          [
+            79.8579993020868,
+            10.3572750919971
+          ],
+          [
+            79.340511509116,
+            10.3088542749396
+          ],
+          [
+            78.8853454934892,
+            9.54613597252772
+          ],
+          [
+            79.1897196796883,
+            9.21654368737015
+          ],
+          [
+            78.2779407083305,
+            8.93304677981693
+          ],
+          [
+            77.9411653990844,
+            8.25295909263974
+          ],
+          [
+            77.5398979023379,
+            7.96553477623233
+          ],
+          [
+            76.5929789570217,
+            8.89927623131419
+          ],
+          [
+            76.1300614765511,
+            10.2996300317755
+          ],
+          [
+            75.7464673196485,
+            11.3082506372483
+          ],
+          [
+            75.3961011087096,
+            11.7812450220158
+          ],
+          [
+            74.8648157083168,
+            12.7419357365379
+          ],
+          [
+            74.6167171568835,
+            13.9925829126497
+          ],
+          [
+            74.4438594908672,
+            14.6172217879777
+          ],
+          [
+            73.5341992532334,
+            15.990652167215
+          ],
+          [
+            73.1199092955494,
+            17.9285700545925
+          ],
+          [
+            72.8209094583086,
+            19.2082335474362
+          ],
+          [
+            72.8244751321368,
+            20.4195032821415
+          ],
+          [
+            72.6305334817454,
+            21.356009426351
+          ],
+          [
+            71.175273471974,
+            20.7574413111142
+          ],
+          [
+            70.4704586119451,
+            20.8773306340314
+          ],
+          [
+            69.1641300800388,
+            22.0892980005727
+          ],
+          [
+            69.6449276060824,
+            22.4507746444543
+          ],
+          [
+            69.3495967955344,
+            22.8431796330627
+          ],
+          [
+            68.1766451353734,
+            23.6919650334567
+          ],
+          [
+            68.8425993183188,
+            24.3591336125609
+          ],
+          [
+            71.0432401874682,
+            24.3565239527302
+          ],
+          [
+            70.8446993346028,
+            25.2151020370435
+          ],
+          [
+            70.2828731627256,
+            25.7222287053398
+          ],
+          [
+            70.168926629522,
+            26.4918716496788
+          ],
+          [
+            69.5143929381131,
+            26.9409656845114
+          ],
+          [
+            70.6164962096019,
+            27.9891962753359
+          ],
+          [
+            71.7776656432003,
+            27.9131802434345
+          ],
+          [
+            72.8237516620847,
+            28.9615917017721
+          ],
+          [
+            73.4506384622174,
+            29.9764134791199
+          ],
+          [
+            74.4213802428203,
+            30.9798147649312
+          ],
+          [
+            74.405928989565,
+            31.6926394719653
+          ],
+          [
+            75.2586417988132,
+            32.2711054550405
+          ],
+          [
+            74.4515592792787,
+            32.7648996038055
+          ],
+          [
+            74.1042936542773,
+            33.4414732935869
+          ],
+          [
+            73.749948358052,
+            34.3176988795279
+          ],
+          [
+            74.240202671205,
+            34.7488870305713
+          ],
+          [
+            75.7570609882683,
+            34.5049225937213
+          ],
+          [
+            76.871721632804,
+            34.6535440129927
+          ],
+          [
+            77.8374507994746,
+            35.4940095077878
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "polygon",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -74.780678,
+            10.973175375207564
+          ],
+          [
+            -74.773293919212719,
+            10.972856728561238
+          ],
+          [
+            -74.765966082779485,
+            10.971903215715052
+          ],
+          [
+            -74.7587503055614,
+            10.970322099414361
+          ],
+          [
+            -74.751701546746688,
+            10.968125422600975
+          ],
+          [
+            -74.744873490270649,
+            10.965329916461481
+          ],
+          [
+            -74.738318135068255,
+            10.961956872690292
+          ],
+          [
+            -74.732085398315675,
+            10.958031980948769
+          ],
+          [
+            -74.726222734709339,
+            10.953585132777587
+          ],
+          [
+            -74.72077477470674,
+            10.948650193468669
+          ],
+          [
+            -74.715782984499569,
+            10.943264743654186
+          ],
+          [
+            -74.711285350317851,
+            10.937469792599721
+          ],
+          [
+            -74.707316089470993,
+            10.931309465405118
+          ],
+          [
+            -74.703905390319591,
+            10.924830666514849
+          ],
+          [
+            -74.701079183145225,
+            10.91808272211917
+          ],
+          [
+            -74.698858943641113,
+            10.911117004187272
+          ],
+          [
+            -74.6972615304966,
+            10.903986539009535
+          ],
+          [
+            -74.696299058273979,
+            10.896745603244831
+          ],
+          [
+            -74.695978806514148,
+            10.889449310556859
+          ],
+          [
+            -74.696303165719954,
+            10.882153191995066
+          ],
+          [
+            -74.697269620586312,
+            10.87491277331819
+          ],
+          [
+            -74.698870770562053,
+            10.867783152478559
+          ],
+          [
+            -74.701094387543449,
+            10.860818580480377
+          ],
+          [
+            -74.703923510218317,
+            10.854072048795539
+          ],
+          [
+            -74.70733657430749,
+            10.847594886468892
+          ],
+          [
+            -74.711307577671761,
+            10.841436369964686
+          ],
+          [
+            -74.715806279004767,
+            10.83564334871058
+          ],
+          [
+            -74.720798428571911,
+            10.830259889170497
+          ],
+          [
+            -74.726246029223745,
+            10.825326940136572
+          ],
+          [
+            -74.732107625686879,
+            10.820882021767437
+          ],
+          [
+            -74.73833861992803,
+            10.816958940718891
+          ],
+          [
+            -74.744891610195864,
+            10.813587533514497
+          ],
+          [
+            -74.751716751171386,
+            10.81079344008922
+          ],
+          [
+            -74.758762132505623,
+            10.808597909212722
+          ],
+          [
+            -74.765974172886487,
+            10.807017637252722
+          ],
+          [
+            -74.7732980266679,
+            10.80606464149605
+          ],
+          [
+            -74.780678,
+            10.805746168976489
+          ],
+          [
+            -74.7880579733321,
+            10.80606464149605
+          ],
+          [
+            -74.795381827113516,
+            10.807017637252722
+          ],
+          [
+            -74.80259386749438,
+            10.808597909212722
+          ],
+          [
+            -74.809639248828617,
+            10.81079344008922
+          ],
+          [
+            -74.816464389804139,
+            10.813587533514497
+          ],
+          [
+            -74.823017380071974,
+            10.816958940718893
+          ],
+          [
+            -74.829248374313124,
+            10.820882021767437
+          ],
+          [
+            -74.835109970776259,
+            10.825326940136572
+          ],
+          [
+            -74.840557571428093,
+            10.830259889170497
+          ],
+          [
+            -74.845549720995223,
+            10.835643348710581
+          ],
+          [
+            -74.850048422328229,
+            10.841436369964686
+          ],
+          [
+            -74.854019425692513,
+            10.84759488646889
+          ],
+          [
+            -74.857432489781687,
+            10.854072048795539
+          ],
+          [
+            -74.860261612456554,
+            10.860818580480377
+          ],
+          [
+            -74.862485229437951,
+            10.867783152478559
+          ],
+          [
+            -74.864086379413678,
+            10.87491277331819
+          ],
+          [
+            -74.86505283428005,
+            10.882153191995066
+          ],
+          [
+            -74.865377193485855,
+            10.889449310556859
+          ],
+          [
+            -74.865056941726024,
+            10.896745603244831
+          ],
+          [
+            -74.8640944695034,
+            10.903986539009535
+          ],
+          [
+            -74.86249705635889,
+            10.911117004187272
+          ],
+          [
+            -74.860276816854778,
+            10.918082722119168
+          ],
+          [
+            -74.857450609680413,
+            10.924830666514849
+          ],
+          [
+            -74.854039910529,
+            10.931309465405118
+          ],
+          [
+            -74.850070649682138,
+            10.937469792599721
+          ],
+          [
+            -74.845573015500435,
+            10.943264743654186
+          ],
+          [
+            -74.840581225293263,
+            10.948650193468669
+          ],
+          [
+            -74.835133265290651,
+            10.953585132777585
+          ],
+          [
+            -74.829270601684328,
+            10.958031980948769
+          ],
+          [
+            -74.823037864931749,
+            10.961956872690294
+          ],
+          [
+            -74.816482509729354,
+            10.965329916461481
+          ],
+          [
+            -74.809654453253316,
+            10.968125422600977
+          ],
+          [
+            -74.8026056944386,
+            10.970322099414361
+          ],
+          [
+            -74.795389917220518,
+            10.971903215715052
+          ],
+          [
+            -74.788062080787284,
+            10.972856728561238
+          ],
+          [
+            -74.780678,
+            10.973175375207564
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "metadata": {
+      "wsiProductNumber": "1140",
+      "messageType": "AIRMET",
+      "productId": "AIRMET_GOVT",
+      "messageId": "AIRMET_20180119010212aa0cb8d6a84e3769719d07643cd8beb1",
+      "expiry": "2018-01-19T04:00:00Z",
+      "messageSize": 2904
+    },
+    "data": {
+      "rawType": "SFC WND",
+      "issueTime": "2018-01-18T21:44:00Z",
+      "changeType": "ROU",
+      "phenomenon": "WINDS",
+      "rawData": "HNLT WA 182200 \nAIRMET TANGO UPDATE 3 FOR TURB VALID UNTIL 190400 \nAIRMET STG SFC WND...HI \nOVER MTN...THRU VALLEYS...AND NEAR HEADLANDS ALL ISLANDS. \nSTG SFC WIND 30 KT OR GREATER. \nCOND CONT BEYOND 0400Z",
+      "type": "WINDS",
+      "expireAt": "2018-01-19T04:00:00Z",
+      "rowId": 42009265343914,
+      "reportType": "AIRMET",
+      "activeAt": "2018-01-18T22:00:00Z",
+      "siteId": "PHNL",
+      "id": "2",
+      "region": {
+        "coordinates": [
+          [
+            [
+              [
+                -156.017,
+                19.645
+              ],
+              [
+                -156.074,
+                19.734
+              ],
+              [
+                -156.048,
+                19.798
+              ],
+              [
+                -155.934,
+                19.879
+              ],
+              [
+                -155.841,
+                19.996
+              ],
+              [
+                -155.917,
+                20.2
+              ],
+              [
+                -155.899,
+                20.262
+              ],
+              [
+                -155.837,
+                20.281
+              ],
+              [
+                -155.595,
+                20.134
+              ],
+              [
+                -155.437,
+                20.105
+              ],
+              [
+                -155.208,
+                19.985
+              ],
+              [
+                -155.077,
+                19.859
+              ],
+              [
+                -155.082,
+                19.741
+              ],
+              [
+                -154.999,
+                19.747
+              ],
+              [
+                -154.973,
+                19.645
+              ],
+              [
+                -154.799,
+                19.518
+              ],
+              [
+                -154.977,
+                19.34
+              ],
+              [
+                -155.157,
+                19.259
+              ],
+              [
+                -155.294,
+                19.256
+              ],
+              [
+                -155.5,
+                19.132
+              ],
+              [
+                -155.594,
+                18.965
+              ],
+              [
+                -155.686,
+                18.904
+              ],
+              [
+                -155.732,
+                18.961
+              ],
+              [
+                -155.889,
+                19.03
+              ],
+              [
+                -155.93,
+                19.113
+              ],
+              [
+                -155.899,
+                19.347
+              ],
+              [
+                -156.017,
+                19.645
+              ]
+            ],
+            [
+              [
+                -156.539,
+                20.987
+              ],
+              [
+                -156.52,
+                20.998
+              ],
+              [
+                -156.472,
+                20.906
+              ],
+              [
+                -156.326,
+                20.96
+              ],
+              [
+                -156.238,
+                20.948
+              ],
+              [
+                -156.109,
+                20.836
+              ],
+              [
+                -156,
+                20.805
+              ],
+              [
+                -155.967,
+                20.727
+              ],
+              [
+                -156.109,
+                20.632
+              ],
+              [
+                -156.298,
+                20.577
+              ],
+              [
+                -156.443,
+                20.592
+              ],
+              [
+                -156.474,
+                20.775
+              ],
+              [
+                -156.631,
+                20.802
+              ],
+              [
+                -156.7,
+                20.883
+              ],
+              [
+                -156.674,
+                21.019
+              ],
+              [
+                -156.589,
+                21.044
+              ],
+              [
+                -156.539,
+                20.987
+              ]
+            ],
+            [
+              [
+                -156.501,
+                20.646
+              ],
+              [
+                -156.486,
+                20.636
+              ],
+              [
+                -156.5,
+                20.623
+              ],
+              [
+                -156.512,
+                20.635
+              ],
+              [
+                -156.501,
+                20.646
+              ]
+            ],
+            [
+              [
+                -156.593,
+                20.612
+              ],
+              [
+                -156.533,
+                20.583
+              ],
+              [
+                -156.541,
+                20.507
+              ],
+              [
+                -156.677,
+                20.494
+              ],
+              [
+                -156.712,
+                20.521
+              ],
+              [
+                -156.593,
+                20.612
+              ]
+            ],
+            [
+              [
+                -156.714,
+                21.142
+              ],
+              [
+                -156.698,
+                21.145
+              ],
+              [
+                -156.697,
+                21.127
+              ],
+              [
+                -156.715,
+                21.126
+              ],
+              [
+                -156.714,
+                21.142
+              ]
+            ],
+            [
+              [
+                -157.114,
+                21.098
+              ],
+              [
+                -157.324,
+                21.105
+              ],
+              [
+                -157.257,
+                21.237
+              ],
+              [
+                -157.017,
+                21.196
+              ],
+              [
+                -156.973,
+                21.229
+              ],
+              [
+                -156.941,
+                21.186
+              ],
+              [
+                -156.703,
+                21.162
+              ],
+              [
+                -156.772,
+                21.078
+              ],
+              [
+                -156.875,
+                21.038
+              ],
+              [
+                -157.114,
+                21.098
+              ]
+            ],
+            [
+              [
+                -157.006,
+                20.828
+              ],
+              [
+                -157.072,
+                20.904
+              ],
+              [
+                -157.027,
+                20.939
+              ],
+              [
+                -156.902,
+                20.928
+              ],
+              [
+                -156.799,
+                20.819
+              ],
+              [
+                -156.838,
+                20.753
+              ],
+              [
+                -156.968,
+                20.725
+              ],
+              [
+                -157.006,
+                20.828
+              ]
+            ],
+            [
+              [
+                -158.116,
+                21.592
+              ],
+              [
+                -158.048,
+                21.691
+              ],
+              [
+                -157.962,
+                21.721
+              ],
+              [
+                -157.903,
+                21.656
+              ],
+              [
+                -157.92,
+                21.644
+              ],
+              [
+                -157.88,
+                21.568
+              ],
+              [
+                -157.836,
+                21.55
+              ],
+              [
+                -157.836,
+                21.472
+              ],
+              [
+                -157.802,
+                21.442
+              ],
+              [
+                -157.782,
+                21.475
+              ],
+              [
+                -157.712,
+                21.48
+              ],
+              [
+                -157.733,
+                21.414
+              ],
+              [
+                -157.693,
+                21.401
+              ],
+              [
+                -157.706,
+                21.381
+              ],
+              [
+                -157.65,
+                21.34
+              ],
+              [
+                -157.645,
+                21.297
+              ],
+              [
+                -157.702,
+                21.253
+              ],
+              [
+                -157.726,
+                21.282
+              ],
+              [
+                -157.794,
+                21.248
+              ],
+              [
+                -157.969,
+                21.319
+              ],
+              [
+                -158.113,
+                21.291
+              ],
+              [
+                -158.294,
+                21.579
+              ],
+              [
+                -158.116,
+                21.592
+              ]
+            ],
+            [
+              [
+                -157.812,
+                21.477
+              ],
+              [
+                -157.805,
+                21.489
+              ],
+              [
+                -157.789,
+                21.482
+              ],
+              [
+                -157.806,
+                21.456
+              ],
+              [
+                -157.812,
+                21.477
+              ]
+            ],
+            [
+              [
+                -159.562,
+                21.883
+              ],
+              [
+                -159.769,
+                21.975
+              ],
+              [
+                -159.795,
+                22.074
+              ],
+              [
+                -159.732,
+                22.161
+              ],
+              [
+                -159.587,
+                22.236
+              ],
+              [
+                -159.405,
+                22.249
+              ],
+              [
+                -159.346,
+                22.226
+              ],
+              [
+                -159.286,
+                22.145
+              ],
+              [
+                -159.33,
+                22.046
+              ],
+              [
+                -159.326,
+                21.957
+              ],
+              [
+                -159.444,
+                21.862
+              ],
+              [
+                -159.562,
+                21.883
+              ]
+            ],
+            [
+              [
+                -160.168,
+                21.947
+              ],
+              [
+                -160.107,
+                22.038
+              ],
+              [
+                -160.045,
+                21.994
+              ],
+              [
+                -160.068,
+                21.891
+              ],
+              [
+                -160.155,
+                21.857
+              ],
+              [
+                -160.208,
+                21.77
+              ],
+              [
+                -160.258,
+                21.849
+              ],
+              [
+                -160.168,
+                21.947
+              ]
+            ],
+            [
+              [
+                -160.546,
+                21.64
+              ],
+              [
+                -160.562,
+                21.659
+              ],
+              [
+                -160.552,
+                21.672
+              ],
+              [
+                -160.536,
+                21.653
+              ],
+              [
+                -160.546,
+                21.64
+              ]
+            ]
+          ]
+        ],
+        "type": "MultiPolygon"
+      },
+      "objectId": 42009265343914
+    },
+    "id": "boeing"
+  },
+  {
+    "UCATS": 0,
+    "URTS": 0,
+    "UTS": 0,
+    "AC": null,
+    "ASC": 5,
+    "ESC": 0,
+    "FSC": 73,
+    "RSC": 0,
+    "RTSC": 0,
+    "SC": 112,
+    "SSC": 34,
+    "LN": null,
+    "PLID": "ChIJA9KNRIL-1BIRb15jJFz1LOI",
+    "PID": null,
+    "NAME": "Italy",
+    "PPID": "ChIJhdqtz4aI7UYRefD8s-aZ73I",
+    "LOC": {
+      "type": "Point",
+      "coordinates": [
+        12.7673821,
+        41.9719447
+      ]
+    },
+    "LT": 1,
+    "HCA": true,
+    "A2": "IT",
+    "id": "CRI",
+    "CID": "tJ",
+    "DT": 9,
+    "PK": "tJA1"
+  }]
